@@ -1,22 +1,31 @@
 # main links links
 main:
+  - title: "Education"
+    url: /education/
+
+  - title: "Positions"
+    url: /positions/
+
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/   
 
+  - title: "Groups"
+    url: /groups/ 
+
+  - title: "Projects"
+    url: /projects/ 
+
+  - title: "Services"
+    url: /services/
+  
+  - title: "Awards"
+    url: /awards/
+  
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/ 
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Governing Bodies"
+    url: /governingbodies/

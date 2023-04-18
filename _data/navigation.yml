@@ -16,7 +16,10 @@ main:
     url: /groups/ 
 
   - title: "Projects"
-    url: /projects/ 
+    url: /projects/
+  
+  - title: "Visitings" 
+    url: /visitings/
 
   - title: "Services"
     url: /services/

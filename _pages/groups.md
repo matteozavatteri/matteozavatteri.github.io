@@ -5,7 +5,7 @@ permalink: /groups/
 author_profile: true
 ---
 
-|**Since 2023**<br/><br/><center><a href="https://www.consorzioinest.it/en/"><img src="/images/Icone_spokes_300x300_Spoke_9.svg" width="50%" height="50%"/></a></center><br/><br/>Member of the **iNEST: INTERCONNECTED NORD-EST INNOVATION ECOSYSTEM project.**|
+|**Since 2023**<br/><center><a href="https://www.consorzioinest.it/en/"><img src="/images/Icone_spokes_300x300_Spoke_9.svg" width="50%" height="50%"/></a></center><br/>Member of the **iNEST: INTERCONNECTED NORD-EST INNOVATION ECOSYSTEM project.**|
 |-|
 |**Since 2019**<br/><br/><br/><center><a href="https://overlay.uniud.it"><img src="/images/overlay.svg"/></a></center><br/><br/>**Member of OVERLAY research group on Formal Methods for AI (fOrmal VERification, Logic, Automata, and sYnthesis)**|
 |-|

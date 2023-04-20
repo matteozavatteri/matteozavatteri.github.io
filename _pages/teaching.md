@@ -5,52 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Institutional
-- **A.Y. 2022/2023**:
-  - **Database Systems Laboratory** (24 hours)<br/> 
-  Bachelor's degree in Computer Science<br/> 
-  Department of Mathematics, University of Padova, Italy<br/>
-  Coordinator: Prof. Pietro Sala.
+|**Institutional**<br/><br/>**A.Y. 2022/2023 - Database Systems Laboratory (24 hours)**<br/>**Bachelor's degree in Computer Science**<br/>Department of Mathematics, University of Padova, Italy<br/>Coordinator: Prof. Pietro Sala.|
 
-## Contract professor
-- **A.Y. 2022/2023**:
-  - **Systems Design Laboratory** (24 hours)<br/>
-  Master's degree in Computer Engineering for Robotics and Smart Industry<br/>
-  Department of Engineering for Innovation Medicine, University of Verona, Italy<br/>
-  Coordinator: Prof. Tiziano Villa
-- **A.Y. 2021/2022**:
-  - **Systems Design Laboratory** (18 hours)<br/> 
-  Master's degree in Computer Engineering for Robotics and Smart Industry<br/> 
-  Department of Computer Science, University of Verona, Italy<br/>
-  Coordinator: Prof. Tiziano Villa
+|**Contract professor**<br/><br/>**A.Y. 2022/2023 - Systems Design Laboratory (24 hours)**<br/>**Master's degree in Computer Engineering for Robotics and Smart Industry**<br/>Department of Engineering for Innovation Medicine, University of Verona, Italy<br/>Coordinator: Prof. Tiziano Villa<br/><br/>**A.Y. 2021/2022 - Systems Design Laboratory (18 hours)**<br/>**Master's degree in Computer Engineering for Robotics and Smart Industry**<br/>Department of Computer Science, University of Verona, Italy<br/>Coordinator: Prof. Tiziano Villa|
 
-## Teaching assistant
-- **A.Y. 2022/2023**:
-  - **Informatics and Bioinformatics** (20 hours)<br/>
-  Bachelor's degree in Biology<br/> Department of Biology, University of Padova, Italy<br/>
-  Coordinator: Prof. Davide Bresolin
-- **A.Y. 2021/2022**:
-  - **Mathematics for Decisions** (48 hours)<br/> 
-  Master's degree in Applied Mathematics and Master's degree in Computer Science<br/>
-  Department of Computer Science, University of Verona, Italy<br/>
-  Coordinator: Prof. Romeo Rizzi
-- **A.Y. 2020/2021**:
-  - **Mathematics for Decisions** (48 hours)<br/> 
-  Master's degree in Applied Mathematics and Master's degree in Computer Science<br/>
-  Department of Computer Science, University of Verona, Italy<br/>
-  Coordinator: Prof. Romeo Rizzi
-- **A.Y. 2019/2020**:
-  - **Mathematics for Decisions** (48 hours)<br/>
-  Master's degree in Applied Mathematics<br/>
-  Department of Computer Science, University of Verona, Italy<br/>
-  Coordinator: Prof. Romeo Rizzi
-- **A.Y. 2014/2015**:
-  - **Database Systems Laboratory** (36 hours)<br/> 
-  Bachelor's degree in Bioinformatics<br/>
-  Department of Computer Science, University of Verona, Italy<br/> 
-  Coordinator: Prof. Pietro Sala
-- **A.Y. 2013/2014**:
-  - **Database Systems Laboratory** (36 hours)<br/> 
-  Bachelor's degree in Bioinformatics<br/>
-  Department of Computer Science, University of Verona, Italy<br/>
-  Coordinator: Prof. Carlo Combi
+|**Teaching assistant**<br/><br/>**A.Y. 2022/2023 - Informatics and Bioinformatics (20 hours)**<br/>**Bachelor's degree in Biology**<br/> Department of Biology, University of Padova, Italy<br/>Coordinator: Prof. Davide Bresolin<br/><br/>**A.Y. 2021/2022 - Mathematics for Decisions (48 hours)**<br/>**Master's degree in Applied Mathematics and Master's degree in Computer Science**<br/>Department of Computer Science, University of Verona, Italy<br/>Coordinator: Prof. Romeo Rizzi<br/><br/>**A.Y. 2020/2021 - Mathematics for Decisions (48 hours)**<br/>**Master's degree in Applied Mathematics and Master's degree in Computer Science**<br/>Department of Computer Science, University of Verona, Italy<br/>Coordinator: Prof. Romeo Rizzi<br/><br/>**A.Y. 2019/2020 - Mathematics for Decisions (48 hours)**<br/>**Master's degree in Applied Mathematics**<br/>Department of Computer Science, University of Verona, Italy<br/>Coordinator: Prof. Romeo Rizzi<br/><br/>**A.Y. 2014/2015 - Database Systems Laboratory (36 hours)**<br/>**Bachelor's degree in Bioinformatics**<br/>Department of Computer Science, University of Verona, Italy<br/>Coordinator: Prof. Pietro Sala<br/><br/>**A.Y. 2013/2014 - Database Systems Laboratory (36 hours)**<br/>**Bachelor's degree in Bioinformatics**<br/>Department of Computer Science, University of Verona, Italy<br/>Coordinator: Prof. Carlo Combi|

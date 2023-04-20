@@ -49,7 +49,7 @@ In 6th AIROYoung Workshop – Operation Research and Data Science in Public Serv
 [Link to paper]()
 - **Matteo Zavatteri, Davide Bresolin, Romeo Rizzi, and Tiziano Villa.<br/> 
 Dynamic controllability of temporal networks via supervisory control.**<br/> 
-In Fourth Workshop on fOrmal VERification, Logic, Automata, and sYnthesis, 2022, OVERLAY 2022, volume 3311, pages 27–31. CEUR-WS.org, 2022.<br/>
+In 4th Workshop on fOrmal VERification, Logic, Automata, and sYnthesis, 2022, OVERLAY 2022, volume 3311, pages 27–31. CEUR-WS.org, 2022.<br/>
 [Link to paper](https://overlay.uniud.it/workshop/2022/papers/paper05.pdf)
 - **Dario Ostuni, Alice Raffaele, Romeo Rizzi, and Matteo Zavatteri.<br/> 
 Faster and better simple temporal problems.**<br/> 
@@ -57,7 +57,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence, 35(13):11913–11
 [Link to paper](https://ojs.aaai.org/index.php/AAAI/article/view/17415)
 - **Guido Sciavicco, Tiziano Villa, and Matteo Zavatteri.<br/> 
 Mining temporal networks: Results and open problems.**<br/>
-In Third Workshop on fOrmal VERification, Logic, Automata, and sYnthesis, 2021, OVERLAY 2021, volume 2987, pages 31–36. CEUR-WS.org, 2021.<br/>
+In 3rd Workshop on fOrmal VERification, Logic, Automata, and sYnthesis, 2021, OVERLAY 2021, volume 2987, pages 31–36. CEUR-WS.org, 2021.<br/>
 [Link to paper](https://ceur-ws.org/Vol-2987/paper6.pdf)
 - **Guido Sciavicco, Matteo Zavatteri, and Tiziano Villa.<br/> 
 Mining Significant Temporal Networks Is Polynomial.**<br/> 
@@ -65,7 +65,7 @@ In 27th International Symposium on Temporal Representation and Reasoning (TIME 2
 [Link to paper](https://drops.dagstuhl.de/opus/volltexte/2020/12979/)
 - **Matteo Zavatteri, Romeo Rizzi, and Tiziano Villa.<br/> 
 Dynamic Controllability and (J,K)-Resiliency in Generalized Constraint Networks with Uncertainty.**<br/> 
-In Proceedings of the Thirtieth International Conference on Automated Planning and Scheduling, ICAPS 2020, pages 314–322. AAAI Press, 2020.<br/>
+In 30th International Conference on Automated Planning and Scheduling, ICAPS 2020, pages 314–322. AAAI Press, 2020.<br/>
 [Link to paper](https://ojs.aaai.org/index.php/ICAPS/article/view/6676)
 - **Matteo Zavatteri, Romeo Rizzi, and Tiziano Villa.<br/> 
 On the complexity of resource controllability in business process management.**<br/> 
@@ -73,7 +73,7 @@ In Business Process Management Workshops, pages 168–180. Springer, 2020.<br/>
 [Link to paper](https://link.springer.com/chapter/10.1007/978-3-030-66498-5_13)
 - **Matteo Zavatteri.<br/> 
 Temporal and resource controllability of workflows under uncertainty.**<br/> 
-In Proceedings of the Dissertation Award, Doctoral Consortium, and Demonstration Track at BPM 2019 co-located with 17th International Conference on Business Process Management, BPM 2019, volume 2420 of CEUR Workshop Proceedings, pages 9–14. CEUR-WS.org, 2019.<br/>
+In Dissertation Award, Doctoral Consortium, and Demonstration Track at BPM 2019 co-located with 17th International Conference on Business Process Management, BPM 2019, volume 2420 of CEUR Workshop Proceedings, pages 9–14. CEUR-WS.org, 2019.<br/>
 [Link to paper](https://ceur-ws.org/Vol-2420/paperDA3.pdf)
 - **Matteo Zavatteri, Carlo Combi, Romeo Rizzi, and Luca Viganò.<br/> 
 Hybrid SAT-Based Consistency Checking Algorithms for Simple Temporal Networks with Decisions.**<br/>
@@ -85,11 +85,11 @@ In Business Process Management Workshops, pages 68–80. Springer, 2019.<br/>
 [Link to paper](https://link.springer.com/chapter/10.1007/978-3-030-37453-2_7)
 - **Matteo Zavatteri, Romeo Rizzi, and Tiziano Villa.<br/> 
 Complexity of weak, strong and dynamic controllability of CNCUs.**<br/> 
-In First Workshop on fOrmal VERification, Logic, Automata, and sYnthesis, 2019, OVERLAY 2019, volume 2509, pages 83–88. CEUR-WS.org, 2019.<br/>
+In 1st Workshop on fOrmal VERification, Logic, Automata, and sYnthesis, 2019, OVERLAY 2019, volume 2509, pages 83–88. CEUR-WS.org, 2019.<br/>
 [Link to paper](https://overlay.uniud.it/workshop/2019/papers/4.2-zavatteri-rizzi-villa.pdf)
 - **Matteo Zavatteri, Romeo Rizzi, and Tiziano Villa.<br/> 
 Strong controllability of temporal networks with decisions.**<br/> 
-In First Workshop on fOrmal VERification, Logic, Automata, and sYnthesis, 2019, OVERLAY 2019, volume 2509, pages 77–82. CEUR-WS.org, 2019.<br/>
+In 1st Workshop on fOrmal VERification, Logic, Automata, and sYnthesis, 2019, OVERLAY 2019, volume 2509, pages 77–82. CEUR-WS.org, 2019.<br/>
 [Link to paper](https://ceur-ws.org/Vol-2509/paper12.pdf)
 - **Matteo Zavatteri and Luca Viganò.<br/> 
 Conditional uncertainty in constraint networks.**<br/> 

@@ -13,7 +13,7 @@ Hi! I am a temporary assistant professor in ***computer science*** at the Depart
 My main **research interests** involve 
 
 - **formal methods**
-- **discrete event systems and (supervisory) control**
+- **discrete event systems and supervisory control**
 - **temporal reasoning**
 - **constraint satisfaction and optimization**
 - **planning and scheduling under uncertainty**

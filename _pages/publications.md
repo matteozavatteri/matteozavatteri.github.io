@@ -7,6 +7,10 @@ author_profile: true
 
 ## Journals
 
+- **Alice Raffaele and Matteo Zavatteri**<br/> 
+**Reducing the Number of Disjuncts in DTPs**<br/> 
+Information and Computation, 2023 (to appear).<br/>
+[Link to paper]()
 - **Matteo Zavatteri, Alice Raffaele, Dario Ostuni, and Romeo Rizzi.**<br/> 
 **An interdisciplinary experimental evaluation on the disjunctive temporal problem.**<br/> 
 Constraints, 28(1):1–12, 2023.<br/>
@@ -15,7 +19,7 @@ Constraints, 28(1):1–12, 2023.<br/>
 Dynamic controllability of temporal networks with instantaneous reaction.**<br/> 
 Information Sciences, 613:932–952, 2022.<br/>
 [Link to paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522010106)
-- **G. Sciavicco, Matteo Zavatteri, and Tiziano Villa<br/> 
+- **Guido Sciavicco, Matteo Zavatteri, and Tiziano Villa<br/> 
 Mining CSTNUDs significant for a set of traces is polynomial.**<br/> 
 Information and Computation, 281, 2021.<br/>
 [Link to paper](https://www.sciencedirect.com/science/article/abs/pii/S0890540121000882)
@@ -41,7 +45,7 @@ Journal of Computer Security, 27(3):343–373, 2019.<br/>
 [Link to paper](https://content.iospress.com/articles/journal-of-computer-security/jcs181244)
 
 
-## Conferences/workshops/symposia
+## Conferences, workshops, and symposia
 
 - **Alice Raffaele, Matteo Zavatteri, Fabio Bazzoli, Marco Gussago, and Romeo Rizzi.<br/> 
 A two-phase approach to evaluate and optimize an interlibrary loan service: the case study of provincia di brescia (to appear).**<br/> 

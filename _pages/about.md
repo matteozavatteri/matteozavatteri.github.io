@@ -14,7 +14,7 @@ My main **research interests** involve
 
 - **formal methods**
 - **discrete event systems and supervisory control**
-- **temporal reasoning**
+- **temporal networks and reasoning**
 - **constraint satisfaction and optimization**
 - **planning and scheduling under uncertainty**
 - **artificial intelligence**

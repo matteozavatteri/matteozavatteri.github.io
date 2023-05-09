@@ -10,7 +10,7 @@ author_profile: true
 - **Alice Raffaele and Matteo Zavatteri**<br/> 
 **Reducing the Number of Disjuncts in DTPs**<br/> 
 Information and Computation, 2023 (to appear).<br/>
-[Link to paper]()
+[Link to paper](https://www.sciencedirect.com/science/article/pii/S0890540123000512)
 - **Matteo Zavatteri, Alice Raffaele, Dario Ostuni, and Romeo Rizzi.**<br/> 
 **An interdisciplinary experimental evaluation on the disjunctive temporal problem.**<br/> 
 Constraints, 28(1):1–12, 2023.<br/>

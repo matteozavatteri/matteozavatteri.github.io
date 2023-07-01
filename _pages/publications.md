@@ -47,6 +47,12 @@ Journal of Computer Security, 27(3):343–373, 2019.<br/>
 
 ## Conferences, workshops, and symposia
 
+- **Matteo Zavatteri, Davide Bresolin, Massimiliano de Leoni<br/> 
+Repair of Unsound Data-Aware Process Models (to appear).**<br/> 
+In Business Process Management Workshops, Springer, 2023.<br/>
+(Formal Methods for Business Process Management, FM-BPM 2023)<br/>
+[Link to paper]()
+
 - **Alice Raffaele, Matteo Zavatteri, Fabio Bazzoli, Marco Gussago, and Romeo Rizzi.<br/> 
 A two-phase approach to evaluate and optimize an interlibrary loan service: the case study of provincia di brescia (to appear).**<br/> 
 In 6th AIROYoung Workshop – Operation Research and Data Science in Public Services, AIROSpringer Series. Springer, 2023.<br/>
@@ -74,6 +80,7 @@ In 30th International Conference on Automated Planning and Scheduling, ICAPS 202
 - **Matteo Zavatteri, Romeo Rizzi, and Tiziano Villa.<br/> 
 On the complexity of resource controllability in business process management.**<br/> 
 In Business Process Management Workshops, pages 168–180. Springer, 2020.<br/>
+(Artificial Intelligence for Business Process Management, AI4BPM 2020)<br/>
 [Link to paper](https://link.springer.com/chapter/10.1007/978-3-030-66498-5_13)
 - **Matteo Zavatteri.<br/> 
 Temporal and resource controllability of workflows under uncertainty.**<br/> 
@@ -86,6 +93,7 @@ In 26th International Symposium on Temporal Representation and Reasoning (TIME 2
 - **Matteo Zavatteri, Carlo Combi, and Luca Viganò.<br/> 
 Resource controllability of workflows under conditional uncertainty.**<br/>
 In Business Process Management Workshops, pages 68–80. Springer, 2019.<br/>
+(Artificial Intelligence for Business Process Management, AI4BPM 2029)<br/>
 [Link to paper](https://link.springer.com/chapter/10.1007/978-3-030-37453-2_7)
 - **Matteo Zavatteri, Romeo Rizzi, and Tiziano Villa.<br/> 
 Complexity of weak, strong and dynamic controllability of CNCUs.**<br/> 

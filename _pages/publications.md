@@ -47,6 +47,12 @@ Journal of Computer Security, 27(3):343–373, 2019.<br/>
 
 ## Conferences, workshops, and symposia
 
+- **Matteo Zavatteri, Davide Bresolin, Massimiliano de Leoni<br/> 
+ Repair of Unsound Data-Aware Process Models (to appear).**<br/> 
+ In Business Process Management Workshops, Springer, 2023.<br/>
+ (Formal Methods for Business Process Management, FM-BPM 2023)<br/>
+ [Link to paper](https://fm-bpm2023.github.io/Home.html#sec-b7ad)
+
 - **Alice Raffaele, Matteo Zavatteri, Fabio Bazzoli, Marco Gussago, and Romeo Rizzi.<br/> 
 A two-phase approach to evaluate and optimize an interlibrary loan service: the case study of provincia di brescia (to appear).**<br/> 
 In 6th AIROYoung Workshop – Operation Research and Data Science in Public Services, AIROSpringer Series. Springer, 2023.<br/>

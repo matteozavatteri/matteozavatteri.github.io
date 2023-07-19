@@ -5,6 +5,36 @@ permalink: /talks/
 author_profile: true
 ---
 
-|**Invited seminars**<br/><br/>**Dec 2019 - Temporal and Resource Controllability of Workflows Under Uncertainty**<br/>Vadid for 2 ETCS credits for the PhD students of the doctoral program in Mathematics<br/>Department of Mathematics and Computer Science, University of Ferrara, Italy.|
+## Invited seminars
 
-|**Speaker for the following conferences**<br/><br/>**Nov 2022 - 4th Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis (OVERLAY 2022)**<br/>**Sep 2021 - 3rd Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis (OVERLAY 2021)**<br/>**Feb 2021 - 35th AAAI Conference on Artificial Intelligence (AAAI 2021)**<br/>**Oct 2020 - 30th International Conference on Automated Planning & Scheduling (ICAPS 2020)**<br/>**Sep 2020 - 27th International Symposium on Temporal Representation and Reasoning (TIME 2020)**<br/>**Sep 2020 - 4th Workshop on Artificial Intelligence for Business Process Management (AI4BPM 2020)**<br/>**Nov 2019 - 1st Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis (OVERLAY 2019)**<br/>**Oct 2019 - 26th International Symposium on Temporal Representation and Reasoning (TIME 2019)**<br/>**Sep 2019 - 3rd Workshop on Artificial Intelligence for Business Process Management (AI4BPM 2019)**<br/>**Jan 2018 - 10th International Conference on Agents and Artificial Intelligence (ICAART 2018)**<br/>**Oct 2017 -  24th International Symposium on Temporal Representation and Reasoning (TIME 2017)**<br/>**Sep 2017 - 15th International Conference on Business Process Management (BPM 2017)**<br/>**Feb 2017 - 9th International Conference on Agents and Artificial Intelligence (ICAART 2017)**<br/>**Mar 2016 - 6th ACM Conference on Data and Application Security and Privacy (CODASPY 2016)**|
+- **Dec 2019 - Temporal and Resource Controllability of Workflows Under Uncertainty**<br/>Vadid for 2 ETCS credits for the PhD students of the doctoral program in Mathematics<br/>Department of Mathematics and Computer Science, University of Ferrara, Italy.
+
+## Speaker for the following conferences
+
+- **Nov 2022 - 4th Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis (OVERLAY 2022)**
+
+- **Sep 2021 - 3rd Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis (OVERLAY 2021)**
+
+- **Feb 2021 - 35th AAAI Conference on Artificial Intelligence (AAAI 2021)**
+
+- **Oct 2020 - 30th International Conference on Automated Planning & Scheduling (ICAPS 2020)**
+
+- **Sep 2020 - 27th International Symposium on Temporal Representation and Reasoning (TIME 2020)**
+
+- **Sep 2020 - 4th Workshop on Artificial Intelligence for Business Process Management (AI4BPM 2020)**
+
+- **Nov 2019 - 1st Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis (OVERLAY 2019)**
+
+- **Oct 2019 - 26th International Symposium on Temporal Representation and Reasoning (TIME 2019)**
+
+- **Sep 2019 - 3rd Workshop on Artificial Intelligence for Business Process Management (AI4BPM 2019)**
+
+- **Jan 2018 - 10th International Conference on Agents and Artificial Intelligence (ICAART 2018)**
+
+- **Oct 2017 -  24th International Symposium on Temporal Representation and Reasoning (TIME 2017)**
+
+- **Sep 2017 - 15th International Conference on Business Process Management (BPM 2017)**
+
+- **Feb 2017 - 9th International Conference on Agents and Artificial Intelligence (ICAART 2017)**
+
+- **Mar 2016 - 6th ACM Conference on Data and Application Security and Privacy (CODASPY 2016)**

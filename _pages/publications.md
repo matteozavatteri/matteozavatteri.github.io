@@ -52,11 +52,10 @@ Journal of Computer Security, 27(3):343–373, 2019.<br/>
  In Business Process Management Workshops, Springer, 2023.<br/>
  (Formal Methods for Business Process Management, FM-BPM 2023)<br/>
  [Link to paper](https://fm-bpm2023.github.io/Home.html#sec-b7ad)
-
 - **Alice Raffaele, Matteo Zavatteri, Fabio Bazzoli, Marco Gussago, and Romeo Rizzi.<br/> 
-A two-phase approach to evaluate and optimize an interlibrary loan service: the case study of provincia di brescia (to appear).**<br/> 
-In 6th AIROYoung Workshop – Operation Research and Data Science in Public Services, AIROSpringer Series. Springer, 2023.<br/>
-[Link to paper](https://link.springer.com/book/9783031345456)
+A two-phase approach to evaluate and optimize an interlibrary loan service: the case study of provincia di brescia.**<br/> 
+In Operations Research and Data Science in Public Services, pages 17–33. Springer, 2023<br/>
+[Link to paper](https://link.springer.com/chapter/10.1007/978-3-031-34546-3_2)
 - **Matteo Zavatteri, Davide Bresolin, Romeo Rizzi, and Tiziano Villa.<br/> 
 Dynamic controllability of temporal networks via supervisory control.**<br/> 
 In 4th Workshop on fOrmal VERification, Logic, Automata, and sYnthesis, 2022, OVERLAY 2022, volume 3311, pages 27–31. CEUR-WS.org, 2022.<br/>

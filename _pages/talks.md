@@ -11,6 +11,8 @@ author_profile: true
 
 ## Speaker for the following conferences
 
+- **Sep 2023 - FM-BPM 2023 @ BPM 2023, 21st International Conference on Business Process Management, 11/09/2023 - 15/09/2023, Utrecht, The Netherlands**
+
 - **Nov 2022 - 4th Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis (OVERLAY 2022)**
 
 - **Sep 2021 - 3rd Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis (OVERLAY 2021)**

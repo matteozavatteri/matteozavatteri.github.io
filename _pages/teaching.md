@@ -17,6 +17,8 @@ author_profile: true
 
 ## Contract professor
 
+- **A.Y. 2023/2024 - Systems Design Laboratory (24 hours)**<br/>**Master's degree in Computer Engineering for Robotics and Smart Industry**<br/>Department of Engineering for Innovation Medicine, University of Verona, Italy<br/>Coordinator: Prof. Tiziano Villa
+
 - **A.Y. 2022/2023 - Systems Design Laboratory (24 hours)**<br/>**Master's degree in Computer Engineering for Robotics and Smart Industry**<br/>Department of Engineering for Innovation Medicine, University of Verona, Italy<br/>Coordinator: Prof. Tiziano Villa
 
 - **A.Y. 2021/2022 - Systems Design Laboratory (18 hours)**<br/>**Master's degree in Computer Engineering for Robotics and Smart Industry**<br/>Department of Computer Science, University of Verona, Italy<br/>Coordinator: Prof. Tiziano Villa

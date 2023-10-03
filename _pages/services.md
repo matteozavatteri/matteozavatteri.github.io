@@ -57,6 +57,8 @@ author_profile: true
 
 ## Journal reviewing activity
 
+- **[Information Systems](https://www.sciencedirect.com/journal/information-systems)**
+
 - **[ACM Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)**
 
 - **[ACM Transactions on Embedded Computing Systems](https://dl.acm.org/journal/tecs)**

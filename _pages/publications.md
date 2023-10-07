@@ -8,7 +8,7 @@ author_profile: true
 ## Journals
 
 - **Davide Bresolin and Matteo Zavatteri**<br/> 
-**Supervisory Control of Business Processes with Resources, Parallel and Mutually Exclusive Branches, Loops, and Uncertainty (to appear)**<br/> 
+**Supervisory Control of Business Processes with Resources, Parallel and Mutually Exclusive Branches, Loops, and Uncertainty**<br/> 
 Information Systems, 2023.<br/>
 [Link to paper](https://doi.org/10.1016/j.is.2023.102288)
 

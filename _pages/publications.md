@@ -9,9 +9,8 @@ author_profile: true
 
 - **Davide Bresolin and Matteo Zavatteri**<br/> 
 **Supervisory Control of Business Processes with Resources, Parallel and Mutually Exclusive Branches, Loops, and Uncertainty**<br/> 
-Information Systems, 2023.<br/>
+Information Systems, 119:102288, 2023<br/>
 [Link to paper](https://doi.org/10.1016/j.is.2023.102288)
-
 - **Alice Raffaele and Matteo Zavatteri**<br/> 
 **Reducing the Number of Disjuncts in DTPs**<br/> 
 Information and Computation, 293:105048, 2023.<br/>

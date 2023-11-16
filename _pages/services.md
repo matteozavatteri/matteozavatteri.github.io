@@ -57,6 +57,8 @@ author_profile: true
 
 ## Journal reviewing activity
 
+- **[Logical Methods in Computer Science](https://lmcs.episciences.org)**
+
 - **[Information Systems](https://www.sciencedirect.com/journal/information-systems)**
 
 - **[ACM Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)**

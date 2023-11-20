@@ -11,9 +11,9 @@ author_profile: true
 
 - **2013 - State professional qualifying examination in engineering**<br/>**(Esame di Stato per l'abilitazione alla professione di Ingegnere)**<br/>Department of Engineering, University of Brescia, Italy
 
-- **2013 - Master's degree in Engineering and Computer Science**<br/>**Curriculum: software engineering and security**<br/>Faculty of Mathematical, Physical, and Natural Sciences, University of Verona, Italy<br/>Thesis: *Network topologies for the defense of security protocols.*<br/>Advisor: Prof. Luca Viganò
+- **2013 - Master's degree in Engineering and Computer Science**<br/>**Curriculum: software engineering and security**<br/>Department of Computer Science, University of Verona, Italy<br/>Thesis: *Network topologies for the defense of security protocols.*<br/>Advisor: Prof. Luca Viganò
 
-- **2010 - Bachelor's degree in Computer Science**<br/>Department of Computer Science, University of Verona, Italy<br/>Thesis: *IP security*<br/>Advisor: Prof. Luca Viganò
+- **2010 - Bachelor's degree in Computer Science**<br/>Faculty of Mathematical, Physical, and Natural Sciences, University of Verona, Italy<br/>Thesis: *IP security*<br/>Advisor: Prof. Luca Viganò
 - **2006 - High school diploma in Computer Science**<br/>I.T.I.S. G. Marconi, Verona
 
 

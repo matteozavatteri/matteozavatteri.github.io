@@ -7,8 +7,6 @@ author_profile: true
 
 - **Since 2023 - Contact person for study plans for the bachelor degree in computer science, Department of Mathematics, University of Padova, Italy**<br/>(Referente per i piani di studio della laurea triennale in informatica)
 
-- **Since 2023 - Member of the teaching committee for the bachelor degree in computer science. Department of Mathematics, University of Padova, Italy**<br/>(Membro della commissione didattica della laurea triennale in informatica)
-
 - **Since 2023 - Member of the mathematics department council. Department of Mathematics, University of Padova, Italy**<br/>(Membro del consiglio di dipartimento di matematica)
 
 - **Since 2023 - Member of the molecular biology teaching committee. Department of Biology, University of Padova, Italy**<br/>(Membro del consiglio del corso di studi di biologia molecolare)

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a temporary assistant professor in ***computer science*** at the Department of Mathematics of  University of Padova, Italy. 
+Hi! I am an assistant professor in ***computer science*** at the Department of Mathematics of  University of Padova, Italy. 
 
 My main **research interests** involve 
 

@@ -5,7 +5,7 @@ permalink: /appointments/
 author_profile: true
 ---
 
-- **Since Mar 2023. Temporary Assistant Professor in Computer Science**<br/>**(Ricercatore a tempo determinato tipo A in Informatica)**<br/>Department of Mathematics, University of Padova, Italy<br/>
+- **Since Mar 2023. Assistant Professor in Computer Science**<br/>**(Ricercatore a tempo determinato tipo A in Informatica)**<br/>Department of Mathematics, University of Padova, Italy<br/>
 
 - **Apr 2022 - Feb 2023. Postdoctoral researcher holding an italian Assegno di Ricerca**<br/>**Sintesi di controllori per systemi ciberfisici**<br/>**(Controller synthesis for cyber-physical systems)**<br/>Department of Mathematics, University of Padova, Italy<br/>Supervisor: Prof. Davide Bresolin<br/>My contribution involved the applycation of supervisory control techniques for the design, validation and synthesis of execution strategies for the enactment of business processes under uncertainty, in a maximally-permissive fashion. Particular attention was devoted to concurrency, to the modularity of the approach, and to new kinds of constraints in process instances that specify subsets of activies that can, must, or might repeat an arbitrary number of times. A further research line involved problem of optimal repair of Data Petri Nets, a state-of-the-art formalism to model data-aware business processes, where the executions of the processes are influenced by the current values valori of read and written data.
 

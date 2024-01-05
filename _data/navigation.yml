@@ -18,14 +18,18 @@ main:
   - title: "Projects"
     url: /projects/
   
-  - title: "Visitings" 
-    url: /visitings/
+  - title: "Supervision" 
+    url: /supervision/
 
   - title: "Services"
     url: /services/
   
   - title: "Awards"
     url: /awards/
+
+  - title: "Visitings" 
+    url: /visitings/
+
   
   - title: "Teaching"
     url: /teaching/ 

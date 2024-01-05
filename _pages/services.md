@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## Member of the program committee (PC) of the following conferences
+
+- **33rd International Joint Conference on Artificial Intelligence ([IJCAI 2024](https://ijcai24.org))**
+
 - **38th AAAI Conference on Artificial Intelligence ([AAAI 2024](https://aaai.org/aaai-conference/))**
 
 - **5th Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata and sYnthesis ([OVERLAY 2023](https://overlay.uniud.it/workshop/2023/))**

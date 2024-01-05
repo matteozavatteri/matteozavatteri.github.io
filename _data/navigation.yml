@@ -21,8 +21,8 @@ main:
   - title: "Supervision" 
     url: /supervision/
 
-  - title: "Services"
-    url: /services/
+  - title: "Service"
+    url: /service/
   
   - title: "Awards"
     url: /awards/

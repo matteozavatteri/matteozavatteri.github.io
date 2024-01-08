@@ -7,9 +7,11 @@ author_profile: true
 
 ## Member of the program committee (PC) of the following conferences
 
-- **8th International Workshop in Artificial Intelligence for Business Process Management AI4BPM 2024**
+- **27th European Conference on Artifical Intelligence ([ECAI 2024](https://www.ecai2024.eu))**
 
 - **33rd International Joint Conference on Artificial Intelligence ([IJCAI 2024](https://ijcai24.org))**
+
+- **8th International Workshop in Artificial Intelligence for Business Process Management AI4BPM 2024**
 
 - **38th AAAI Conference on Artificial Intelligence ([AAAI 2024](https://aaai.org/aaai-conference/))**
 

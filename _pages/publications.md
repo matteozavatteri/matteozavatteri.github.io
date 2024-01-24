@@ -52,8 +52,8 @@ Journal of Computer Security, 27(3):343–373, 2019.<br/>
 ## Conferences, workshops, and symposia
 
 - **Matteo Zavatteri, Davide Bresolin, Massimiliano de Leoni<br/> 
- Repair of Unsound Data-Aware Process Models (to appear).**<br/> 
- In Business Process Management Workshops, Springer, 2023.<br/>
+ Repair of Unsound Data-Aware Process Models.**<br/> 
+ In Business Process Management Workshops, Springer, 2024.<br/>
  (Formal Methods for Business Process Management, FM-BPM 2023)<br/>
  [Link to paper](https://link.springer.com/chapter/10.1007/978-3-031-50974-2_29)
 - **Alice Raffaele, Matteo Zavatteri, Fabio Bazzoli, Marco Gussago, and Romeo Rizzi.<br/> 

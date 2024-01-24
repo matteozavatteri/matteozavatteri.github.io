@@ -64,6 +64,8 @@ author_profile: true
 
 ## Journal reviewing activity
 
+- **[Data & Knowledge Engineering](https://www.sciencedirect.com/journal/data-and-knowledge-engineering)**
+
 - **[Logical Methods in Computer Science](https://lmcs.episciences.org)**
 
 - **[Information Systems](https://www.sciencedirect.com/journal/information-systems)**
@@ -77,3 +79,5 @@ author_profile: true
 - **[Automatica](https://www.sciencedirect.com/journal/automatica)**
 
 - **[International Journal of Automation and Computing](http://www.ijac.net)**
+
+

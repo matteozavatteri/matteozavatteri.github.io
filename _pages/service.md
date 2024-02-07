@@ -70,6 +70,8 @@ author_profile: true
 
 - **[Information Systems](https://www.sciencedirect.com/journal/information-systems)**
 
+- **[Information and Computation](https://www.sciencedirect.com/journal/information-and-computation)**
+
 - **[ACM Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)**
 
 - **[ACM Transactions on Embedded Computing Systems](https://dl.acm.org/journal/tecs)**

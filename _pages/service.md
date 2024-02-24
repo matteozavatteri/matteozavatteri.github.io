@@ -84,4 +84,3 @@ author_profile: true
 
 - **[International Journal of Automation and Computing](http://www.ijac.net)**
 
-

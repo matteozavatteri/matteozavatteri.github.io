@@ -5,7 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Invited seminars
+## Invited talks
+
+- **Mar 2024 - [Supervisory control of business process](https://www.ftf.or.at/2024/03/supervisory-control-of-business-processes/)**<br/>TEWI Colloquium series<br/>University of Klagenfurt, Austria.
 
 - **Dec 2019 - Temporal and Resource Controllability of Workflows Under Uncertainty**<br/>Vadid for 2 ETCS credits for the PhD students of the doctoral program in Mathematics<br/>Department of Mathematics and Computer Science, University of Ferrara, Italy.
 

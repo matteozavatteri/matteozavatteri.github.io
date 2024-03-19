@@ -7,6 +7,8 @@ author_profile: true
 
 ## Member of the program committee (PC) of the following conferences
 
+- **2nd International Workshop on Formal Methods for Business Process Management ([FM-BPM 2024](https://fm-bpm2024.github.io))**
+
 - **15th Games, Automata, Logics, and Formal Verification ([GandALF 2024](https://scool24.github.io/GandALF/))**
 
 - **27th European Conference on Artifical Intelligence ([ECAI 2024](https://www.ecai2024.eu))**

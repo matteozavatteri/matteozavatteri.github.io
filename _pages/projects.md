@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 
+|**2024**<br/><br/>**Principal Investigator** of the project **Neuro-Symbolic AI in digital twins**<br/>**(Intelligenza artificiale neuro-simbolica nei digital twins)**<br/>P.I. Matteo Zavatteri, University of Padova, Italy<br/> Funded by University of Padova with 40.540,54€ in the context of PNRR Young researchers call (NextGeneration EU).|
+
+
 |**2024**<br/><br/>**Principal Investigator** of the project **Certificazione, monitoraggio, ed interpretabilità in sistemi di intelligenza artificiale**<br/>**(Certification, monitorning, and explainability in AI systems)**<br/>P.I. Matteo Zavatteri, University of Padova, Italy<br/> Funded by [INdAM-GNCS](https://www.altamatematica.it/gncs/) with 1700€ this project put together members from the University of Udine, University of Ferrara, Libera University of Bolzano, CNR — Istituto di Scienze e Tecnologie della Cognizione, University of Roma Foro Italico, University of Napoli Federico II, University of Verona, University of Padova, University of Trieste.|
 
 

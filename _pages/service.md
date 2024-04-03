@@ -4,6 +4,9 @@ title: "Service"
 permalink: /service/
 author_profile: true
 ---
+## Editorialships
+
+- **Executive Guest Editor for Information Systems ([Verification, Control, and Repair in Business Process Management](https://www.sciencedirect.com/journal/information-systems/about/call-for-papers#verification-control-and-repair-in-business-process-management))**
 
 ## Member of the program committee (PC) of the following conferences
 

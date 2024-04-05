@@ -10,6 +10,10 @@ author_profile: true
 
 ## Member of the program committee (PC) of the following conferences
 
+- **3rd International Workshop on Spatio-Temporal Reasoning and Learning ([STRL 2024](https://www.lirmm.fr/strl2024))**
+
+- **31st International Symposium on Temporal Representation and Reasoning ([TIME 2024](https://www.lirmm.fr/time2024/))**
+
 - **2nd International Workshop on Formal Methods for Business Process Management ([FM-BPM 2024](https://fm-bpm2024.github.io))**
 
 - **15th Games, Automata, Logics, and Formal Verification ([GandALF 2024](https://scool24.github.io/GandALF/))**

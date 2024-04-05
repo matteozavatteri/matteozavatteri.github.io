@@ -14,7 +14,7 @@ author_profile: true
 
 - **15th Games, Automata, Logics, and Formal Verification ([GandALF 2024](https://scool24.github.io/GandALF/))**
 
-- **27th European Conference on Artifical Intelligence ([ECAI 2024](https://www.ecai2024.eu))**
+- **27th European Conference on Artificial Intelligence ([ECAI 2024](https://www.ecai2024.eu))**
 
 - **33rd International Joint Conference on Artificial Intelligence ([IJCAI 2024](https://ijcai24.org))**
 

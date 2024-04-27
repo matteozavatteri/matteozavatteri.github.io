@@ -8,7 +8,12 @@ author_profile: true
 
 - **Executive Guest Editor for Information Systems ([Verification, Control, and Repair in Business Process Management](https://www.sciencedirect.com/journal/information-systems/about/call-for-papers#verification-control-and-repair-in-business-process-management))**
 
-## Member of the program committee (PC) of the following conferences
+## Program chair
+
+- **co-chair of the 6th Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata and sYnthesis ([OVERLAY 2024](https://overlay.uniud.it/workshop/2024/), to appear)**
+
+
+## Program committees
 
 - **3rd International Workshop on Spatio-Temporal Reasoning and Learning ([STRL 2024](https://www.lirmm.fr/strl2024))**
 
@@ -43,7 +48,7 @@ author_profile: true
 - **3rd Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata and sYnthesis ([OVERLAY 2021](https://overlay.uniud.it/workshop/2021/))**
 
 
-## Member of the organizing committee of the following conferences
+## Organizing committees
 
 - **28th IEEE Computer Security Foundations Symposium (CSF 2015) and affiliated workshops (ASA, CryptoForma, FCS, GraMSec, STAST)**
 

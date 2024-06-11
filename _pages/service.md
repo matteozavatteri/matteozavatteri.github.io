@@ -14,6 +14,8 @@ author_profile: true
 
 ## Program committees
 
+- **39th AAAI Conference on Artificial Intelligence ([AAAI 2025](https://aaai.org/conference/aaai/aaai-25/))**
+
 - **3rd International Workshop on Spatio-Temporal Reasoning and Learning ([STRL 2024](https://www.lirmm.fr/strl2024))**
 
 - **31st International Symposium on Temporal Representation and Reasoning ([TIME 2024](https://www.lirmm.fr/time2024/))**
@@ -28,7 +30,7 @@ author_profile: true
 
 - **8th International Workshop in Artificial Intelligence for Business Process Management ([AI4BPM 2024](https://sites.google.com/unitn.it/ai4bpm-2024))**
 
-- **38th AAAI Conference on Artificial Intelligence ([AAAI 2024](https://aaai.org/aaai-conference/))**
+- **38th AAAI Conference on Artificial Intelligence ([AAAI 2024](https://aaai.org/conference/aaai/aaai-24/))**
 
 - **5th Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata and sYnthesis ([OVERLAY 2023](https://overlay.uniud.it/workshop/2023/))**
 

@@ -10,7 +10,7 @@ author_profile: true
 
 ## Program chair
 
-- **co-chair of the 6th Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata and sYnthesis ([OVERLAY 2024](https://overlay.uniud.it/workshop/2024/))**
+- **co-chair of the 6th International Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata and sYnthesis ([OVERLAY 2024](https://overlay.uniud.it/workshop/2024/))**
 
 ## Program committees
 

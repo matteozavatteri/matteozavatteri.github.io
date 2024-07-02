@@ -11,9 +11,9 @@ author_profile: true
 
 - **Since 2023 - Member of the molecular biology teaching committee. Department of Biology, University of Padova, Italy**<br/>(Membro del consiglio del corso di studi di biologia molecolare)
 
-- **Since 2023 - Member of the human centered medical system engineering teaching committee. Department of computer science, University of Verona, Italy**<br/>(Membro del collegio didattico di informatica)
+- **2023 - 2024 - Member of the human centered medical system engineering teaching committee. Department of Engineering for Innovation Medicine, University of Verona, Italy**<br/>(Membro del collegio didattico interateneo di ingegneria dei sistemi medicali per la persona)
 
-- **2021 - 2022 - Member of the computer science teaching committee. Department of Engineering for Innovation Medicine, University of Verona, Italy**<br/>(Membro del collegio didattico interateneo di ingegneria dei sistemi medicali per la persona)
+- **2021 - 2022 - Member of the computer science teaching committee. Department of computer science, University of Verona, Italy**<br/>(Membro del collegio didattico di informatica)
 
 
 

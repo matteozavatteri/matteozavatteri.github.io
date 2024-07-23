@@ -52,7 +52,7 @@ Journal of Computer Security, 27(3):343–373, 2019.<br/>
 ## Conferences, workshops, and symposia
 
 - **Matteo Zavatteri, Davide Bresolin, Nicolò Navarin<br/> 
- Automated Synthesis of Certified Neural Networks**<br/> 
+ Automated Synthesis of Certified Neural Networks (to appear)**<br/> 
  In 27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE (ECAI 2024)<br/>
  [Link to paper]()
 

@@ -51,6 +51,11 @@ Journal of Computer Security, 27(3):343–373, 2019.<br/>
 
 ## Conferences, workshops, and symposia
 
+- **Matteo Zavatteri, Davide Bresolin, Nicolò Navarin<br/> 
+ Automated Synthesis of Certified Neural Networks**<br/> 
+ In 27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE (ECAI 2024)<br/>
+ [Link to paper]()
+
 - **Matteo Zavatteri, Davide Bresolin, Massimiliano de Leoni<br/> 
  Repair of Unsound Data-Aware Process Models.**<br/> 
  In Business Process Management Workshops, Springer, 2024.<br/>

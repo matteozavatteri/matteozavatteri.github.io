@@ -10,7 +10,7 @@ author_profile: true
 
 ## Program chair
 
-- **co-chair of the International Workshop on Digital Twins: Mathematical Analysis, Formal Methods, and Scientific Machine Learning ([DTW 2025](https://sites.google.com/view/dtw25)**
+- **co-chair of the International Workshop on Digital Twins: Mathematical Analysis, Formal Methods, and Scientific Machine Learning ([DTW 2025](https://sites.google.com/view/dtw25))**
 - 
 - **co-chair of the 6th International Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata and sYnthesis ([OVERLAY 2024](https://overlay.uniud.it/workshop/2024/))**
 

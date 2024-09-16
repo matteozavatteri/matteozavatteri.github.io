@@ -83,6 +83,8 @@ author_profile: true
 
 ## Journal reviewing activity
 
+- **[Information Sciences](https://www.sciencedirect.com/journal/information-sciences)**
+
 - **[Data & Knowledge Engineering](https://www.sciencedirect.com/journal/data-and-knowledge-engineering)**
 
 - **[Logical Methods in Computer Science](https://lmcs.episciences.org)**

@@ -7,6 +7,12 @@ author_profile: true
 
 ## Institutional
 
+- **A.Y. 2024/2025 - Formal methods for cyber-physical systems (8 hours) - supervisory control module**<br/>**Master's degree in INTERNATIONAL CYBERSECURITY AND CYBERINTELLIGENCE**<br/>Department of Mathematics, University of Padova, Italy<br/>Coordinator: Prof. Davide Bresolin.
+
+- **A.Y. 2024/2025 - Informatics and Bioinformatics (56 hours)**<br/>**Bachelor's degree in Molecular Biology**<br/>Department of Biology, University of Padova, Italy<br/>Coordinator: Dr. Matteo Zavatteri (informatics module, 32 hours)<br/>In collaboration with Prof. Chiara Romualdi (bioinformatics module, 24 hours)
+
+- **A.Y. 2024/2025 - Database Systems Laboratory (24 hours)**<br/>**Bachelor's degree in Computer Science**<br/>Department of Mathematics, University of Padova, Italy<br/>Coordinator: Prof. Massimiliano de Leoni.
+
 - **A.Y. 2023/2024 - Formal methods for cyber-physical systems (8 hours) - supervisory control module**<br/>**Master's degree in CYBERSECURITY**<br/>Department of Mathematics, University of Padova, Italy<br/>Coordinator: Prof. Davide Bresolin.
 
 - **A.Y. 2023/2024 - Informatics and Bioinformatics (56 hours)**<br/>**Bachelor's degree in Molecular Biology**<br/>Department of Biology, University of Padova, Italy<br/>Coordinator: Dr. Matteo Zavatteri (informatics module, 32 hours)<br/>In collaboration with Dr. Laura Treu (bioinformatics module, 24 hours)

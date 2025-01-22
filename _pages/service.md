@@ -10,6 +10,9 @@ author_profile: true
 
 - **Executive Guest Editor for Information Systems ([Verification, Control, and Repair in Business Process Management](https://www.sciencedirect.com/journal/information-systems/about/call-for-papers#verification-control-and-repair-in-business-process-management))**
 
+- **Guest Editor for CEUR Workshop Proceedings ([Artificial Intelligence and Formal Verification, Logic, Automata, and Synthesis 2024 (OVERLAY 2024)](https://ceur-ws.org/Vol-3904/))**
+
+
 ## Program chair
 
 - **co-chair of the International Workshop on Digital Twins: Mathematical Analysis, Formal Methods, and Scientific Machine Learning ([DTW 2025](https://sites.google.com/view/dtw25))**

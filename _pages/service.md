@@ -7,7 +7,7 @@ author_profile: true
 ## Editorialships
 
 - **Track Editor for Journal of Artificial Intelligence Research ([Integration of Logical Constraints in Deep Learning](https://www.jair.org/index.php/jair/SpecialTrack-LogicDL))**
-- 
+
 - **Executive Guest Editor for Information Systems ([Verification, Control, and Repair in Business Process Management](https://www.sciencedirect.com/journal/information-systems/about/call-for-papers#verification-control-and-repair-in-business-process-management))**
 
 ## Program chair

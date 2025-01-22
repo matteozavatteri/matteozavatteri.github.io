@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 ## Journals
-
+- **Matteo Zavatteri, Davide Bresolin, Massimiliano de Leoni**<br/> 
+**Data-aware process models: From soundness checking to repair.**<br/> 
+Data & Knowledge Engineering, 155: 102377 (2025)<br/>
+[Link to paper](https://dx.doi.org/10.1016/j.datak.2024.102377)
 - **Davide Bresolin and Matteo Zavatteri**<br/> 
 **Supervisory Control of Business Processes with Resources, Parallel and Mutually Exclusive Branches, Loops, and Uncertainty**<br/> 
 Information Systems, 119:102288, 2023<br/>
@@ -51,10 +54,15 @@ Journal of Computer Security, 27(3):343–373, 2019.<br/>
 
 ## Conferences, workshops, and symposia
 
+- **Matteo Zavatteri, Davide Bresolin, Nicolò Navarin.<br/> 
+Automated Synthesis of Certified Neural Networks: Initial Results and Open Research Lines**<br/> 
+In 6th Workshop on fOrmal VERification, Logic, Automata, and sYnthesis, 2024, OVERLAY 2024, volume 3904, pages 77–82. CEUR-WS.org, 2022.<br/>
+[Link to paper](https://ceur-ws.org/Vol-3904/paper9.pdf)
+
 - **Matteo Zavatteri, Davide Bresolin, Nicolò Navarin<br/> 
- Automated Synthesis of Certified Neural Networks (to appear)**<br/> 
+ Automated Synthesis of Certified Neural Networks**<br/> 
  In 27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE (ECAI 2024)<br/>
- [Link to paper]()
+ [Link to paper](https://dx.doi.org/10.3233/faia240633)
 
 - **Matteo Zavatteri, Davide Bresolin, Massimiliano de Leoni<br/> 
  Repair of Unsound Data-Aware Process Models.**<br/> 

@@ -6,6 +6,8 @@ author_profile: true
 ---
 ## Editorialships
 
+- **Track Editor for Journal of Artificial Intelligence Research ([Integration of Logical Constraints in Deep Learning](https://www.jair.org/index.php/jair/SpecialTrack-LogicDL))**
+- 
 - **Executive Guest Editor for Information Systems ([Verification, Control, and Repair in Business Process Management](https://www.sciencedirect.com/journal/information-systems/about/call-for-papers#verification-control-and-repair-in-business-process-management))**
 
 ## Program chair
@@ -15,6 +17,10 @@ author_profile: true
 - **co-chair of the 6th International Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata and sYnthesis ([OVERLAY 2024](https://overlay.uniud.it/workshop/2024/))**
 
 ## Program committees
+
+- **23rd International Conference on Business Process Management ([BPM 2025](https://www.bpm2025seville.org)). Foundation Track. Seville, Spain.**
+
+- **34th International Joint Conference on Artificial Intelligence ([IJCAI 2025](https://2025.ijcai.org)). Montreal, Canada.**
 
 - **39th AAAI Conference on Artificial Intelligence ([AAAI 2025](https://aaai.org/conference/aaai/aaai-25/))**
 

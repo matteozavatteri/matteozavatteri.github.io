@@ -16,4 +16,4 @@ constraints.**<br/>Master's degree in computer science. Department of Mathematic
 
 ## Postdoctoral researchers
 
-- **Nov 2024 - ongoing - Alberto Valese. Logical constraint integration in neural networks*<br/>
+- **Nov 2024 - ongoing - Alberto Valese. Logical constraint integration in neural networks**<br/>

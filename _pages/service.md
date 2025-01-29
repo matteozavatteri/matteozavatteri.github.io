@@ -6,11 +6,13 @@ author_profile: true
 ---
 ## Editorialships
 
-- **Track Editor for Journal of Artificial Intelligence Research ([Integration of Logical Constraints in Deep Learning](https://www.jair.org/index.php/jair/SpecialTrack-LogicDL))**
+- **Jan 2025 - ongoing. [Associate Editor for Journal of Artificial Intelligence Research](https://www.jair.org/index.php/jair/about/editorialTeam)**
 
-- **Executive Guest Editor for Information Systems ([Verification, Control, and Repair in Business Process Management](https://www.sciencedirect.com/journal/information-systems/about/call-for-papers#verification-control-and-repair-in-business-process-management))**
+- **Dec 2024 - ongoing. Track Editor for Journal of Artificial Intelligence Research ([Integration of Logical Constraints in Deep Learning](https://www.jair.org/index.php/jair/SpecialTrack-LogicDL))**
 
-- **Guest Editor for CEUR Workshop Proceedings ([Artificial Intelligence and Formal Verification, Logic, Automata, and Synthesis 2024 (OVERLAY 2024)](https://ceur-ws.org/Vol-3904/))**
+- **Apr 2024 - ongoing. Executive Guest Editor for Information Systems ([Verification, Control, and Repair in Business Process Management](https://www.sciencedirect.com/journal/information-systems/about/call-for-papers#verification-control-and-repair-in-business-process-management))**
+
+- **2024. Guest Editor for CEUR Workshop Proceedings ([Artificial Intelligence and Formal Verification, Logic, Automata, and Synthesis 2024 (OVERLAY 2024)](https://ceur-ws.org/Vol-3904/))**
 
 
 ## Program chair

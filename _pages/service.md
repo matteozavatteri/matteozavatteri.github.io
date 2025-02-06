@@ -23,6 +23,8 @@ author_profile: true
 
 ## Program committees
 
+- **28th European Conference on Artificial Intelligence ([ECAI 2025](https://www.ecai2025.eu))**
+
 - **23rd International Conference on Business Process Management ([BPM 2025](https://www.bpm2025seville.org)). Foundation Track. Seville, Spain.**
 
 - **34th International Joint Conference on Artificial Intelligence ([IJCAI 2025](https://2025.ijcai.org)). Montreal, Canada.**

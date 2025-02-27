@@ -18,6 +18,9 @@ main:
   - title: "Projects"
     url: /projects/
   
+  - title: "Theses" 
+    url: /theses/
+
   - title: "Supervision" 
     url: /supervision/
 
@@ -29,7 +32,6 @@ main:
 
   - title: "Visitings" 
     url: /visitings/
-
   
   - title: "Teaching"
     url: /teaching/ 

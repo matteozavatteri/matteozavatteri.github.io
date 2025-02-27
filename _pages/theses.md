@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Theses"
+title: "Master's Theses in Computer Science"
 permalink: /theses/
 author_profile: true
 ---
-
-# Master's Theses in Computer Science
 
 ## Formal Methods for AI - in collaboration with Collins Aerospace
 

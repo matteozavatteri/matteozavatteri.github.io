@@ -11,7 +11,15 @@ author_profile: true
 
 - **Dec 2019 - Temporal and Resource Controllability of Workflows Under Uncertainty**<br/>Vadid for 2 ETCS credits for the PhD students of the doctoral program in Mathematics<br/>Department of Mathematics and Computer Science, University of Ferrara, Italy.
 
-## Speaker for the following conferences
+## Speaker for the following workshops/conferences
+
+- **Feb 2025 - DTW 2025, International Workshop on Digital Twins: Mathematical Analysis, Formal Methods and Scientific Machine Learning, 19/02/2025 - 21/02/2025, Padova, Italy**
+
+- **Nov 2024 - OVERLAY 2024, 6th Workshop on Artificial Intelligence and fOrmal VERification, Logic,
+Automata, and sYnthesis, 28/11/2024 - 29/11/2024, Bolzano, Italy**
+
+- **Oct 2024 - ECAI 2024, 27TH European Conference on Artificial Intelligence, 20/10/2024 - 24/10/2024,
+Santiago de Compostela, Spain**
 
 - **Sep 2023 - FM-BPM 2023 @ BPM 2023, 21st International Conference on Business Process Management, 11/09/2023 - 15/09/2023, Utrecht, The Netherlands**
 

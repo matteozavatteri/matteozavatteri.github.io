@@ -23,6 +23,8 @@ author_profile: true
 
 ## Program committees
 
+- **9th International Workshop in Artificial Intelligence for Business Process Management ([AI4BPM 2025](https://sites.google.com/unitn.it/ai4bpm-2025))**
+
 - **7th Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata and sYnthesis ([OVERLAY 2025](https://overlay.uniud.it/workshop/2025/))**
 
 - **28th European Conference on Artificial Intelligence ([ECAI 2025](https://www.ecai2025.eu))**

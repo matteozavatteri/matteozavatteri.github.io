@@ -10,7 +10,7 @@ author_profile: true
 
 - **Dec 2024 - ongoing. Track Editor for Journal of Artificial Intelligence Research ([Integration of Logical Constraints in Deep Learning](https://www.jair.org/index.php/jair/SpecialTrack-LogicDL))**
 
-- **Apr 2024 - ongoing. Executive Guest Editor for Information Systems ([Verification, Control, and Repair in Business Process Management](https://www.sciencedirect.com/journal/information-systems/about/call-for-papers#verification-control-and-repair-in-business-process-management))**
+- **Apr 2024 - Jul 2025. Executive Guest Editor for Information Systems ([Verification, Control, and Repair in Business Process Management](https://www.sciencedirect.com/journal/information-systems/about/call-for-papers#verification-control-and-repair-in-business-process-management))**
 
 - **2024. Guest Editor for CEUR Workshop Proceedings ([Artificial Intelligence and Formal Verification, Logic, Automata, and Synthesis 2024 (OVERLAY 2024)](https://ceur-ws.org/Vol-3904/))**
 
@@ -22,6 +22,10 @@ author_profile: true
 - **co-chair of the 6th International Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata and sYnthesis ([OVERLAY 2024](https://overlay.uniud.it/workshop/2024/))**
 
 ## Program committees
+
+- **AAAI 2026 Special Track on AI Alignment ([AAAI-AIA 2026](https://aaai.org/conference/aaai/aaai-26/aia-call/))** 
+
+- **40th AAAI Conference on Artificial Intelligence ([AAAI 2026](https://aaai.org/conference/aaai/aaai-26/))**
 
 - **32nd International Symposium on Temporal Representation and Reasoning ([TIME 2025](https://time2025conf.github.io))**
 

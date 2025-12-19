@@ -54,6 +54,11 @@ Journal of Computer Security, 27(3):343–373, 2019.<br/>
 
 ## Conferences, workshops, and symposia
 
+- **Stefano Fioravanti, Matteo Zavatteri, Roberto Confalonieri, Kamyar Zeinalipour, Alessandro Sperduti Paolo Frazzetto, and Nicolò Navarin.<br/> 
+Iterative in-context learning to enhance llms abstract reasoning: The case-study of algebraic tasks.**<br/> 
+In Symposium On Applied Computing (SAC 2026).<br/>
+[Link to paper]()
+
 - **Matteo Zavatteri, Davide Bresolin, Nicolò Navarin.<br/> 
 Automated Synthesis of Certified Neural Networks: Initial Results and Open Research Lines**<br/> 
 In 6th Workshop on fOrmal VERification, Logic, Automata, and sYnthesis, 2024, OVERLAY 2024, volume 3904, pages 77–82. CEUR-WS.org, 2022.<br/>

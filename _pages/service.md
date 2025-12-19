@@ -23,6 +23,8 @@ author_profile: true
 
 ## Program committees
 
+- **35th International Joint Conference on Artificial Intelligence ([IJCAI-ECAI 2026](https://2026.ijcai.org)). Bremen, Germany.**
+
 - **AAAI 2026 Special Track on AI Alignment ([AAAI-AIA 2026](https://aaai.org/conference/aaai/aaai-26/aia-call/))** 
 
 - **40th AAAI Conference on Artificial Intelligence ([AAAI 2026](https://aaai.org/conference/aaai/aaai-26/))**

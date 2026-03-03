@@ -23,6 +23,10 @@ author_profile: true
 
 ## Program committees
 
+- **8th Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata and sYnthesis ([OVERLAY 2026](https://overlay.uniud.it/workshop/2026/))**
+
+- **24rd International Conference on Business Process Management ([BPM 2026](https://www.yorku.ca/events/bpm2026/)). Foundation Track. Toronto, Canada.**
+
 - **35th International Joint Conference on Artificial Intelligence ([IJCAI-ECAI 2026](https://2026.ijcai.org)). Bremen, Germany.**
 
 - **AAAI 2026 Special Track on AI Alignment ([AAAI-AIA 2026](https://aaai.org/conference/aaai/aaai-26/aia-call/))** 

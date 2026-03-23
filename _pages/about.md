@@ -12,10 +12,6 @@ Hi! I am a researcher at Fondazione Bruno Kessler, Trento, Italy.
 
 My main **research interests** involve 
 
-- **formal methods**
-- **discrete event systems and supervisory control**
+- **formal methods for artificial intelligence**
 - **temporal networks and reasoning**
-- **constraint satisfaction and optimization**
-- **planning and scheduling under uncertainty**
-- **artificial intelligence**
-- **business process management**
+- **verification, control, and repair problems for business process management**

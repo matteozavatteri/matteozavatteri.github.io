@@ -5,6 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Ph.D. courses
+
+- **A.Y. 2025/2026 - Supervisory control of discrete event systems (12 hours)**<br/>**Ph.D. program in Mathematics. Università degli Studi di Modena e Reggio Emilia in agreement with the Universities of Modena-Reggio-Emilia and Parma.**<br/>
+
 ## Institutional
 
 - **A.Y. 2024/2025 - Formal methods for cyber-physical systems (8 hours) - supervisory control module**<br/>**Master's degree in INTERNATIONAL CYBERSECURITY AND CYBERINTELLIGENCE**<br/>Department of Mathematics, University of Padova, Italy<br/>Coordinator: Prof. Davide Bresolin.

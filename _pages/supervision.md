@@ -7,8 +7,7 @@ author_profile: true
 
 ## Master's Degree theses (supervisor)
 
-- **2025 Enrico Muraro. Deep Learning Meets Formal Methods: A Certified Neural
-Network Synthesis Approach for Airborne Collision Avoidance.**</br> Master's degree in computer science. Department of Mathematics, University of Padova, Italy.<br/>Co-advisor: Prof. Davide Bresolin.<br/>
+- **2025 - Enrico Muraro. Deep Learning Meets Formal Methods: A Certified Neural Network Synthesis Approach for Airborne Collision Avoidance.**<br/> Master's degree in computer science. Department of Mathematics, University of Padova, Italy.<br/>Co-advisor: Prof. Davide Bresolin.<br/>
 
 - **2024 - Melissa Tanios. Modular supervisory control of business processes with resource
 constraints.**<br/>Master's degree in computer science. Department of Mathematics, University of Padova, Italy.<br/>Co-advisor: Prof. Davide Bresolin.<br/>

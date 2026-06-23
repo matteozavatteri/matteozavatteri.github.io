@@ -23,6 +23,8 @@ author_profile: true
 
 ## Program committees
 
+- **41st AAAI Conference on Artificial Intelligence ([AAAI 2027](https://aaai.org/conference/aaai/aaai-27/))**
+
 - **8th Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata and sYnthesis ([OVERLAY 2026](https://overlay.uniud.it/workshop/2026/))**
 
 - **35th International Joint Conference on Artificial Intelligence ([IJCAI-ECAI 2026](https://2026.ijcai.org)). Bremen, Germany.**

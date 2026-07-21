@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Qualifications
-- **2026 - ASN 2023/2025**</br>National Scientific qualification as associate professor</br>01/B1 - Informatics
+- **2026 - ASN 2023/2025**<br/>National Scientific qualification as associate professor<br/>01/B1 - Informatics
 
 - **2013 - State professional qualifying examination in engineering**<br/>**(Esame di Stato per l'abilitazione alla professione di Ingegnere, sezione A ingegnere dell'informazione)**<br/>Department of Engineering, University of Brescia, Italy
 - 

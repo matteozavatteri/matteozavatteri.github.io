@@ -5,11 +5,15 @@ permalink: /education/
 author_profile: true
 ---
 
+## Qualifications
+- **2026 - ASN 2023/2025**</br>National Scientific qualification as associate professor</br>01/B1 - Informatics
+
+- **2013 - State professional qualifying examination in engineering**<br/>**(Esame di Stato per l'abilitazione alla professione di Ingegnere, sezione A ingegnere dell'informazione)**<br/>Department of Engineering, University of Brescia, Italy
+- 
 ## Main
 
 - **2018 - Ph.D. in Computer Science (29° Italian cycle, Doctor Europaeus)**<br/>Department of Computer Science, University of Verona, Italy<br/>Thesis: *[Temporal and Resource Controllability of Workflows Under Uncertainty](https://hdl.handle.net/11562/979769)*<br/>Advisor: Prof. Luca Viganò. Co-advisor: Prof. Carlo Combi
 
-- **2013 - State professional qualifying examination in engineering**<br/>**(Esame di Stato per l'abilitazione alla professione di Ingegnere)**<br/>Department of Engineering, University of Brescia, Italy
 
 - **2013 - Master's degree in Engineering and Computer Science**<br/>**Curriculum: software engineering and security**<br/>Department of Computer Science, University of Verona, Italy<br/>Thesis: *Network topologies for the defense of security protocols.*<br/>Advisor: Prof. Luca Viganò
 

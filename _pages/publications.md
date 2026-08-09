@@ -6,8 +6,12 @@ author_profile: true
 ---
 
 ## Journals
+- **Matteo Zavatteri, Davide Bresolin, Nicolò Navarin**<br/> 
+**Certified Neural Networks: From Verification to Synthesis**<br/> 
+Journal of Artificial Intelligence Research (to appear)<br/>
+[Link to paper]()
 - **Matteo Zavatteri, Davide Bresolin, Massimiliano de Leoni**<br/> 
-**Data-aware process models: From soundness checking to repair.**<br/> 
+**Data-aware process models: From soundness checking to repair**<br/> 
 Data & Knowledge Engineering, 155: 102377 (2025)<br/>
 [Link to paper](https://dx.doi.org/10.1016/j.datak.2024.102377)
 - **Davide Bresolin and Matteo Zavatteri**<br/> 
@@ -57,7 +61,7 @@ Journal of Computer Security, 27(3):343–373, 2019.<br/>
 - **Stefano Fioravanti, Matteo Zavatteri, Roberto Confalonieri, Kamyar Zeinalipour, Alessandro Sperduti Paolo Frazzetto, and Nicolò Navarin.<br/> 
 Iterative in-context learning to enhance llms abstract reasoning: The case-study of algebraic tasks.**<br/> 
 In Symposium On Applied Computing (SAC 2026).<br/>
-[Link to paper]()
+[Link to paper](https://dl.acm.org/doi/abs/10.1145/3748522.3779772)
 
 - **Matteo Zavatteri, Davide Bresolin, Nicolò Navarin.<br/> 
 Automated Synthesis of Certified Neural Networks: Initial Results and Open Research Lines**<br/> 

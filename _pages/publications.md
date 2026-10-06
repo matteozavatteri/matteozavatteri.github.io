@@ -8,8 +8,8 @@ author_profile: true
 ## Journals
 - **Matteo Zavatteri, Davide Bresolin, Nicolò Navarin**<br/> 
 **Certified Neural Networks: From Verification to Synthesis**<br/> 
-Journal of Artificial Intelligence Research (to appear)<br/>
-[Link to paper]()
+Journal of Artificial Intelligence Research<br/>
+[Link to paper](https://jair.org/index.php/jair/article/view/22825)
 - **Matteo Zavatteri, Davide Bresolin, Massimiliano de Leoni**<br/> 
 **Data-aware process models: From soundness checking to repair**<br/> 
 Data & Knowledge Engineering, 155: 102377 (2025)<br/>

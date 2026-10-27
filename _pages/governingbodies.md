@@ -5,15 +5,152 @@ permalink: /governingbodies/
 author_profile: true
 ---
 
-- **2023 - 2026 - Contact person for study plans for the bachelor degree in computer science, Department of Mathematics, University of Padova, Italy**<br/>(Referente per i piani di studio della laurea triennale in informatica)
+## Governing bodies and institutional roles
 
-- **2023 - 2026 - Member of the mathematics department council. Department of Mathematics, University of Padova, Italy**<br/>(Membro del consiglio di dipartimento di matematica)
+<div class="entry-list">
 
-- **2023 - 2025 - Member of the molecular biology teaching committee. Department of Biology, University of Padova, Italy**<br/>(Membro del consiglio del corso di studi di biologia molecolare)
+<div class="entry">
+  <div class="entry__years">2024 - 2026</div>
+  <div>
+    <span class="entry__role">Member</span>
+    <div class="entry__name">Credit recognition committee, Bachelor's degree in Computer Science</div>
+    <div class="entry__alt">Commissione Riconoscimenti CFU, Laurea triennale in Informatica</div>
+    <div class="entry__meta">
+      <span>Department of Mathematics, University of Padova, Italy</span>
+    </div>
+  </div>
+</div>
 
-- **2023 - 2024 - Member of the human centered medical system engineering teaching committee. Department of Engineering for Innovation Medicine, University of Verona, Italy**<br/>(Membro del collegio didattico interateneo di ingegneria dei sistemi medicali per la persona)
+<div class="entry">
+  <div class="entry__years">2023 - 2026</div>
+  <div>
+    <span class="entry__role entry__role--main">Contact person</span>
+    <div class="entry__name">Study plans, Bachelor's degree in Computer Science</div>
+    <div class="entry__alt">Referente per i piani di studio della Laurea triennale in Informatica</div>
+    <div class="entry__meta">
+      <span>Department of Mathematics, University of Padova, Italy</span>
+    </div>
+  </div>
+</div>
 
-- **2021 - 2022 - Member of the computer science teaching committee. Department of computer science, University of Verona, Italy**<br/>(Membro del collegio didattico di informatica)
+<div class="entry">
+  <div class="entry__years">2023 - 2026</div>
+  <div>
+    <span class="entry__role">Member</span>
+    <div class="entry__name">Molecular Biology teaching committee</div>
+    <div class="entry__alt">Consiglio del Corso di Studi di Biologia Molecolare</div>
+    <div class="entry__meta">
+      <span>Department of Biology, University of Padova, Italy</span>
+    </div>
+  </div>
+</div>
 
+<div class="entry">
+  <div class="entry__years">2023 - 2026</div>
+  <div>
+    <span class="entry__role">Member</span>
+    <div class="entry__name">Department council</div>
+    <div class="entry__alt">Consiglio del Dipartimento di Matematica</div>
+    <div class="entry__meta">
+      <span>Department of Mathematics, University of Padova, Italy</span>
+    </div>
+  </div>
+</div>
 
+<div class="entry">
+  <div class="entry__years">2023 - 2026</div>
+  <div>
+    <span class="entry__role">Member</span>
+    <div class="entry__name">Graduation committees, Bachelor's degree in Computer Science and Master's degree in Computer Science</div>
+    <div class="entry__alt">Commissioni di laurea triennale in Informatica e magistrale in Computer Science</div>
+    <div class="entry__meta">
+      <span>Department of Mathematics, University of Padova, Italy</span>
+    </div>
+  </div>
+</div>
 
+<div class="entry">
+  <div class="entry__years">2023 - 2024</div>
+  <div>
+    <span class="entry__role">Member</span>
+    <div class="entry__name">Inter-university teaching committee of Human-Centered Medical Systems Engineering</div>
+    <div class="entry__alt">Collegio Didattico Interateneo di Ingegneria dei Sistemi Medicali per la Persona</div>
+    <div class="entry__meta">
+      <span>Department of Engineering for Innovation Medicine, University of Verona, Italy</span>
+    </div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry__years">2021 - 2022</div>
+  <div>
+    <span class="entry__role">Member</span>
+    <div class="entry__name">Computer Science teaching committee</div>
+    <div class="entry__alt">Collegio Didattico di Informatica</div>
+    <div class="entry__meta">
+      <span>Department of Computer Science, University of Verona, Italy</span>
+    </div>
+  </div>
+</div>
+
+</div>
+
+## Selection committees for research grants
+
+<div class="entry-list">
+
+<div class="entry">
+  <div class="entry__years">2025</div>
+  <div>
+    <span class="entry__role">Member</span>
+    <div class="entry__name">Analysis and Optimization of Health-Care Processes</div>
+    <div class="entry__meta">
+      <span>Department of Mathematics, University of Padova, Italy</span>
+      <span><b>Chair:</b> Prof. Massimiliano de Leoni</span>
+    </div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry__years">2024</div>
+  <div>
+    <span class="entry__role entry__role--main">Chair</span>
+    <div class="entry__name">Logical constraint integration in neural networks</div>
+    <div class="entry__meta">
+      <span>Department of Mathematics, University of Padova, Italy</span>
+      <span><b>Scientific supervisor:</b> Matteo Zavatteri</span>
+    </div>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry__years">2023</div>
+  <div>
+    <span class="entry__role">Member</span>
+    <div class="entry__name">Task and Web Mining</div>
+    <div class="entry__meta">
+      <span>Department of Mathematics, University of Padova, Italy</span>
+      <span><b>Chair:</b> Prof. Massimiliano de Leoni</span>
+    </div>
+  </div>
+</div>
+
+</div>
+
+## Ph.D. examination committees
+
+<div class="entry-list">
+
+<div class="entry">
+  <div class="entry__years">2025</div>
+  <div>
+    <span class="entry__role">Substitute member</span>
+    <div class="entry__name">Final examination for the Ph.D. in Computer Science, XXXVII cycle</div>
+    <div class="entry__meta">
+      <span>University of Torino, Italy</span>
+      <span><b>Candidate:</b> Alberto Valese</span>
+    </div>
+  </div>
+</div>
+
+</div>

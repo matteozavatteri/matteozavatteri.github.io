@@ -1,0 +1,354 @@
+/* ==========================================================================
+   Logo list (groups page): fixed-size logo on the left, text on the right
+   ========================================================================== */
+
+.logo-list {
+  margin-top: 1em;
+}
+
+.logo-item {
+  display: flex;
+  align-items: center;
+  gap: 1.5em;
+  padding: 1.25em 0;
+  border-bottom: 1px solid $border-color;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.logo-item__logo {
+  flex: 0 0 160px;
+  height: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+}
+
+/* stand-in when a group has no logo image */
+.logo-item__text {
+  color: $dark-gray;
+  font-size: $type-size-3;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+}
+
+.logo-item__logo:has(.logo-item__text) {
+  text-decoration: none;
+}
+
+.logo-item__body {
+  flex: 1;
+  font-size: $type-size-6;
+
+  p {
+    margin: 0.25em 0 0;
+  }
+}
+
+.logo-item__years {
+  color: $gray;
+  font-size: $type-size-7;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.logo-item__name {
+  margin: 0.15em 0 0;
+  font-size: $type-size-5;
+  font-weight: bold;
+}
+
+/* phones: logo above the text */
+@media (max-width: $small) {
+  .logo-item {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75em;
+  }
+
+  .logo-item__logo {
+    flex-basis: auto;
+    width: 140px;
+    height: 70px;
+    justify-content: flex-start;
+  }
+}
+
+/* ==========================================================================
+   Entry list (projects, supervision): years on the left, details on the right
+   ========================================================================== */
+
+.entry-list {
+  margin-top: 1em;
+}
+
+.entry {
+  display: grid;
+  grid-template-columns: 100px 1fr;
+  gap: 1.5em;
+  padding: 1.5em 0;
+  border-bottom: 1px solid $border-color;
+  font-size: $type-size-6;
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  p {
+    margin: 0.6em 0 0;
+  }
+}
+
+.entry__years {
+  color: $gray;
+  font-weight: bold;
+  font-size: $type-size-5;
+}
+
+.entry__role {
+  display: inline-block;
+  padding: 0.2em 0.6em;
+  border-radius: 3px;
+  background: $lighter-gray;
+  color: $dark-gray;
+  font-size: $type-size-8;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+
+  &--main {
+    background: $info-color;
+    color: #fff;
+  }
+}
+
+.entry__name {
+  margin: 0.4em 0 0;
+  font-size: $type-size-5;
+  font-weight: bold;
+  line-height: 1.3;
+}
+
+.entry__alt {
+  color: $gray;
+  font-style: italic;
+}
+
+.entry__meta {
+  margin-top: 0.6em;
+  color: $dark-gray;
+
+  span {
+    display: block;
+  }
+
+  b {
+    color: $gray;
+  }
+}
+
+.entry__logo {
+  float: right;
+  margin: 0 0 0.5em 1em;
+
+  img {
+    max-width: 180px;
+    max-height: 70px;
+    object-fit: contain;
+  }
+}
+
+/* phones: years above the details */
+@media (max-width: $small) {
+  .entry {
+    grid-template-columns: 1fr;
+    gap: 0.4em;
+  }
+}
+
+/* ==========================================================================
+   Thesis proposals (theses page)
+   ========================================================================== */
+
+.thesis-area {
+  margin-top: 1em;
+  font-size: $type-size-6;
+
+  h2 {
+    margin-bottom: 0.2em;
+  }
+}
+
+.thesis-area__partner {
+  display: inline-block;
+  padding: 0.2em 0.6em;
+  border-radius: 3px;
+  background: $info-color;
+  color: #fff;
+  font-size: $type-size-8;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.thesis-area__focus {
+  margin: 0.6em 0 0;
+  color: $gray;
+  font-size: $type-size-5;
+  font-style: italic;
+}
+
+.thesis-area__label {
+  margin: 1.5em 0 0.6em;
+  color: $gray;
+  font-size: $type-size-7;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.thesis-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1em;
+}
+
+.thesis-card {
+  padding: 1em;
+  border: 1px solid $border-color;
+  border-radius: 4px;
+  font-size: $type-size-5;
+  font-weight: bold;
+  line-height: 1.35;
+}
+
+.thesis-card__num {
+  display: block;
+  margin-bottom: 0.3em;
+  color: $info-color;
+  font-size: $type-size-4;
+}
+
+.thesis-area__refs {
+  margin-top: 1.5em;
+  padding-top: 0.8em;
+  border-top: 1px solid $border-color;
+  color: $gray;
+  font-size: $type-size-7;
+
+  p {
+    margin: 0.3em 0 0;
+  }
+}
+
+/* small tags, e.g. the editions of a program committee */
+.entry__chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin-top: 0.5em;
+}
+
+.chip {
+  display: inline-block;
+  padding: 0.15em 0.6em;
+  border: 1px solid $border-color;
+  border-radius: 3px;
+  color: $dark-gray;
+  font-size: $type-size-7;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.entry__chips a.chip {
+  color: $dark-gray;
+  text-decoration: none;
+
+  &:hover {
+    border-color: $info-color;
+    color: $info-color;
+  }
+}
+
+/* plain paragraphs that sit next to entry lists */
+.entry-text {
+  font-size: $type-size-6;
+}
+
+/* compact rows (publications) */
+.entry-list--compact {
+  .entry {
+    grid-template-columns: 50px 1fr;
+    gap: 1em;
+    padding: 0.7em 0;
+  }
+
+  .entry__meta {
+    margin-top: 0.1em;
+  }
+
+  .entry__alt .chip {
+    margin-left: 0.4em;
+    padding: 0 0.45em;
+    font-style: normal;
+    text-decoration: none;
+    vertical-align: 1px;
+  }
+
+  @media (max-width: $small) {
+    .entry {
+      grid-template-columns: 1fr;
+      gap: 0.1em;
+    }
+  }
+}
+
+/* ==========================================================================
+   Home page
+   ========================================================================== */
+
+.home-intro {
+  font-size: $type-size-5;
+  line-height: 1.6;
+}
+
+.home-label {
+  margin: 1.8em 0 0.6em;
+  color: $gray;
+  font-size: $type-size-7;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1em;
+}
+
+.research-card {
+  padding: 1em 1.1em;
+  border: 1px solid $border-color;
+  border-top: 3px solid $info-color;
+  border-radius: 4px;
+  font-size: $type-size-6;
+
+  p {
+    margin: 0.4em 0 0;
+  }
+}
+
+.research-card__title {
+  font-size: $type-size-5;
+  font-weight: bold;
+}

@@ -38,7 +38,7 @@ Information and Computation, 281, 2021.<br/>
 Consistency checking of STNs with decisions: Managing temporal and access-control constraints in a seamless way**<br/> 
 Information and Computation, 280, 2021.<br/>
 [Link to paper](https://www.sciencedirect.com/science/article/abs/pii/S0890540120301255)
-- **Matteo Zavatteri, Carlo Combi, and Luca Vigano.<br/>
+- **Matteo Zavatteri, Carlo Combi, and Luca Viganò.<br/>
 Resource controllability of business processes under conditional uncertainty.**<br/>
 Journal on Data Semantics, pages 1–21, 2021.<br/>
 [Link to paper](https://link.springer.com/article/10.1007/s13740-021-00119-w)
@@ -70,7 +70,7 @@ In 6th Workshop on fOrmal VERification, Logic, Automata, and sYnthesis, 2024, OV
 
 - **Matteo Zavatteri, Davide Bresolin, Nicolò Navarin<br/> 
  Automated Synthesis of Certified Neural Networks**<br/> 
- In 27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE (ECAI 2024)<br/>
+ In 27th European Conference on Artificial Intelligence (ECAI 2024)<br/>
  [Link to paper](https://dx.doi.org/10.3233/faia240633)
 
 - **Matteo Zavatteri, Davide Bresolin, Massimiliano de Leoni<br/> 
@@ -79,7 +79,7 @@ In 6th Workshop on fOrmal VERification, Logic, Automata, and sYnthesis, 2024, OV
  (Formal Methods for Business Process Management, FM-BPM 2023)<br/>
  [Link to paper](https://link.springer.com/chapter/10.1007/978-3-031-50974-2_29)
 - **Alice Raffaele, Matteo Zavatteri, Fabio Bazzoli, Marco Gussago, and Romeo Rizzi.<br/> 
-A two-phase approach to evaluate and optimize an interlibrary loan service: the case study of provincia di brescia.**<br/> 
+A two-phase approach to evaluate and optimize an interlibrary loan service: the case study of Provincia di Brescia.**<br/> 
 In Operations Research and Data Science in Public Services, pages 17–33. Springer, 2023<br/>
 [Link to paper](https://link.springer.com/chapter/10.1007/978-3-031-34546-3_2)
 - **Matteo Zavatteri, Davide Bresolin, Romeo Rizzi, and Tiziano Villa.<br/> 
@@ -142,7 +142,7 @@ In 24th International Symposium on Temporal Representation and Reasoning, TIME 2
 [Link to paper](https://drops.dagstuhl.de/opus/volltexte/2017/7915/)
 - **Carlo Combi, Roberto Posenato, Luca Viganò, and Matteo Zavatteri.<br/> 
 Access controlled temporal networks.**<br/> 
-In 9th International Conference on Agents and Artificial Intelligence - Volume 2, ICAART 2017, pages 118–131. ScitePress, 2017.<br/>
+In 9th International Conference on Agents and Artificial Intelligence - Volume 2, ICAART 2017, pages 118–131. SciTePress, 2017.<br/>
 [Link to paper](https://www.scitepress.org/PublishedPapers/2017/61857/)
 - **Matteo Zavatteri.<br/> 
 Conditional simple temporal networks with uncertainty and decisions.**<br/> 

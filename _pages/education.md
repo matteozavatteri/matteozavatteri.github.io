@@ -11,7 +11,7 @@ author_profile: true
 - **2026 - ASN 2023/2025**<br/>National Scientific qualification as associate professor<br/>09/H1 - Information processing systems (ex ING-INF/05 - Sistemi di elaborazione delle informazioni)
 
 - **2013 - State professional qualifying examination in engineering**<br/>**(Esame di Stato per l'abilitazione alla professione di Ingegnere, sezione A ingegnere dell'informazione)**<br/>Department of Engineering, University of Brescia, Italy
-- 
+
 ## Main
 
 - **2018 - Ph.D. in Computer Science (29° Italian cycle, Doctor Europaeus)**<br/>Department of Computer Science, University of Verona, Italy<br/>Thesis: *[Temporal and Resource Controllability of Workflows Under Uncertainty](https://hdl.handle.net/11562/979769)*<br/>Advisor: Prof. Luca Viganò. Co-advisor: Prof. Carlo Combi

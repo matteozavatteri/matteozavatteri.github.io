@@ -5,14 +5,13 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Invited talks
+## <svg class="heading__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a3.5 3.5 0 0 1 3.5 3.5v6a3.5 3.5 0 0 1-7 0v-6A3.5 3.5 0 0 1 12 2zm-7 9.5h2a5 5 0 0 0 10 0h2a7 7 0 0 1-6 6.9V21h3v2H8v-2h3v-2.6a7 7 0 0 1-6-6.9z"/></svg>Invited talks
 
 <div class="entry-list">
 
 <div class="entry">
   <div class="entry__years">Mar 2024</div>
   <div>
-    <span class="entry__role entry__role--main">Invited talk</span>
     <div class="entry__name"><a href="https://www.ftf.or.at/?p=8965">Supervisory control of business processes</a></div>
     <div class="entry__alt">TEWI Colloquium series</div>
     <div class="entry__meta">
@@ -26,7 +25,6 @@ author_profile: true
 <div class="entry">
   <div class="entry__years">Dec 2019</div>
   <div>
-    <span class="entry__role entry__role--main">Invited talk</span>
     <div class="entry__name">Temporal and resource controllability of workflows under uncertainty</div>
     <div class="entry__alt">Valid for 2 ECTS credits for the Ph.D. students of the doctoral program in Mathematics</div>
     <div class="entry__meta">
@@ -39,11 +37,11 @@ author_profile: true
 
 </div>
 
-## Speaker at international conferences and workshops
+## <svg class="heading__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 3h20v2h-1v10H3V5H2zm3 2v8h14V5zm2 2h6v1.6H7zm0 3h9v1.6H7zM11 16h2v2.2l3.4 3-1.3 1.3L12 19.7l-3.1 2.8-1.3-1.3 3.4-3z"/></svg>Speaker at international conferences and workshops
 
 ### Conferences and symposia
 
-<div class="entry-list">
+<div class="entry-list entry-list--compact entry-list--labels">
 
 <div class="entry">
   <div class="entry__years">AAAI</div>
@@ -105,7 +103,7 @@ author_profile: true
 
 ### Workshops
 
-<div class="entry-list">
+<div class="entry-list entry-list--compact entry-list--labels">
 
 <div class="entry">
   <div class="entry__years">OVERLAY</div>
@@ -136,24 +134,6 @@ author_profile: true
   <div>
     <div class="entry__name">International Workshop on Digital Twins</div>
     <div class="entry__chips"><span class="chip">2025 · Padova, iNEST day</span></div>
-  </div>
-</div>
-
-</div>
-
-## Organization of seminars with invited speakers
-
-<div class="entry-list">
-
-<div class="entry">
-  <div class="entry__years">Jul 2024</div>
-  <div>
-    <span class="entry__role entry__role--main">Organizer</span>
-    <div class="entry__name">Model Checking as Machine Learning</div>
-    <div class="entry__meta">
-      <span>Department of Mathematics, University of Padova, Italy, 08/07/2024</span>
-      <span><b>Invited speaker:</b> Mirco Giacobbe (University of Birmingham, U.K.)</span>
-    </div>
   </div>
 </div>
 

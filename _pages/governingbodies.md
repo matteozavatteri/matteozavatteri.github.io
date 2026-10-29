@@ -5,7 +5,7 @@ permalink: /governingbodies/
 author_profile: true
 ---
 
-## Governing bodies and institutional roles
+## <svg class="heading__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2 2 7v2h20V7zM4 10.5h2.5V18H4zm4.75 0h2.5V18h-2.5zm4 0h2.5V18h-2.5zm4.75 0H20V18h-2.5zM2 19.5h20V22H2z"/></svg>Governing bodies and institutional roles
 
 <div class="entry-list">
 
@@ -95,7 +95,7 @@ author_profile: true
 
 </div>
 
-## Selection committees for research grants
+## <svg class="heading__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 3a4 4 0 1 1 0 8 4 4 0 0 1 0-8zm0 9.5c3.9 0 7 1.9 7 4.3V20H2v-3.2c0-2.4 3.1-4.3 7-4.3zm8.6-4.7 1.4 1.4-3.9 3.9-2.3-2.3 1.4-1.4.9.9z"/></svg>Selection committees for research grants
 
 <div class="entry-list">
 
@@ -131,24 +131,6 @@ author_profile: true
     <div class="entry__meta">
       <span>Department of Mathematics, University of Padova, Italy</span>
       <span><b>Chair:</b> Prof. Massimiliano de Leoni</span>
-    </div>
-  </div>
-</div>
-
-</div>
-
-## Ph.D. examination committees
-
-<div class="entry-list">
-
-<div class="entry">
-  <div class="entry__years">2025</div>
-  <div>
-    <span class="entry__role">Substitute member</span>
-    <div class="entry__name">Final examination for the Ph.D. in Computer Science, XXXVII cycle</div>
-    <div class="entry__meta">
-      <span>University of Torino, Italy</span>
-      <span><b>Candidate:</b> Alberto Valese</span>
     </div>
   </div>
 </div>

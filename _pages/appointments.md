@@ -5,7 +5,9 @@ permalink: /appointments/
 author_profile: true
 ---
 
-<div class="entry-list">
+## <svg class="heading__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 3h6a2 2 0 0 1 2 2v1h3a2 2 0 0 1 2 2v4H2V8a2 2 0 0 1 2-2h3V5a2 2 0 0 1 2-2zm0 2v1h6V5zM2 13.5h8V15h4v-1.5h8V19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2z"/></svg>Current position
+
+<div class="entry-list entry-list--wide-dates">
 
 <div class="entry">
   <div class="entry__years">Mar 2026 - ongoing</div>
@@ -16,6 +18,12 @@ author_profile: true
     <p>Research on hybrid controllability of temporal networks.</p>
   </div>
 </div>
+
+</div>
+
+## <svg class="heading__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M13 3a9 9 0 0 0-9 9H1l3.9 3.9L8.8 12H6a7 7 0 1 1 2.1 5l-1.4 1.4A9 9 0 1 0 13 3zm-1 5v5l4.3 2.5.7-1.2-3.5-2.1V8z"/></svg>Previous positions
+
+<div class="entry-list entry-list--wide-dates">
 
 <div class="entry">
   <div class="entry__years">Mar 2023 - Feb 2026</div>

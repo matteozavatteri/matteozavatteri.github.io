@@ -352,3 +352,72 @@
   font-size: $type-size-5;
   font-weight: bold;
 }
+
+/* compact rows labelled by an acronym instead of a year */
+.entry-list--compact.entry-list--labels {
+  .entry {
+    grid-template-columns: 90px 1fr;
+  }
+
+  .entry__chips {
+    margin-top: 0.25em;
+  }
+
+  @media (max-width: $small) {
+    .entry {
+      grid-template-columns: 1fr;
+    }
+  }
+}
+
+/* small inline icon before an entry name (e.g. degrees) */
+.entry__icon {
+  width: 1.2em;
+  height: 1.2em;
+  margin-right: 0.4em;
+  vertical-align: -0.25em;
+  fill: $info-color;
+}
+
+/* icon in front of a section heading */
+.heading__icon {
+  width: 0.9em;
+  height: 0.9em;
+  margin-right: 0.35em;
+  vertical-align: -0.1em;
+  fill: $info-color;
+}
+
+/* wider date column, for month ranges such as "Mar 2026 - ongoing" */
+.entry-list--wide-dates .entry {
+  grid-template-columns: 140px 1fr;
+
+  @media (max-width: $small) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.research-card {
+  position: relative;
+}
+
+/* icon sits in the top-right corner, next to the title */
+.research-card__icon {
+  position: absolute;
+  top: 0.9em;
+  right: 1em;
+  width: 30px;
+  height: 30px;
+  color: $info-color;
+}
+
+.research-card__title {
+  display: flex;
+  align-items: center;
+  min-height: 30px;
+  padding-right: 60px;
+}
+
+.research-card__icon--wide {
+  width: 53px;
+}

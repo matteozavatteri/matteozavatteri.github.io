@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Editorials
+## <svg class="heading__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M15.6 3.4a2 2 0 0 1 2.8 0l2.2 2.2a2 2 0 0 1 0 2.8L9 20H4v-5zM14.2 7.6 6 15.8V18h2.2l8.2-8.2z"/></svg>Editorials
 
 <div class="entry-list entry-list--compact">
 
@@ -29,7 +29,7 @@ author_profile: true
 
 </div>
 
-## Journals
+## <svg class="heading__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 4.5C4.8 3.6 8.3 3.7 11 5.3v15c-2.7-1.4-6.2-1.5-9-.6zm20 0v15.2c-2.8-.9-6.3-.8-9 .6v-15c2.7-1.6 6.2-1.7 9-.8z"/></svg>Journals
 
 <div class="entry-list entry-list--compact">
 
@@ -143,7 +143,7 @@ author_profile: true
 
 </div>
 
-## Conferences, workshops, and symposia
+## <svg class="heading__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 3h20v2h-1v10H3V5H2zm3 2v8h14V5zm2 2h6v1.6H7zm0 3h9v1.6H7zM11 16h2v2.2l3.4 3-1.3 1.3L12 19.7l-3.1 2.8-1.3-1.3 3.4-3z"/></svg>Conferences, workshops, and symposia
 
 <div class="entry-list entry-list--compact">
 
@@ -152,7 +152,7 @@ author_profile: true
   <div>
     <div class="entry__name">Refusal Before Decoding: Detecting and Exploiting Refusal Signals in Intermediate LLM Activations</div>
     <div class="entry__meta"><span>Matteo Gioele Collu, Riccardo Conte, Alberto Giaretta, Denis Kleyko, Mauro Conti, <strong>Matteo Zavatteri</strong>, and Roberto Confalonieri</span></div>
-    <div class="entry__alt">In Findings of the Association for Computational Linguistics: EMNLP 2026. Association for Computational Linguistics. 2026. (To appear)</div>
+    <div class="entry__alt">In Findings of the Association for Computational Linguistics: EMNLP 2026, pages 28141–28157. Association for Computational Linguistics. 2026. <a class="chip" href="https://aclanthology.org/2026.findings-emnlp.1328/">Link</a></div>
   </div>
 </div>
 

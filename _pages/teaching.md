@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Ph.D. courses
+## <svg class="heading__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 1 8.5 12 14l9-4.5V16h2V8.5z"/><path d="M5 12.2V16c0 1.7 3.1 3 7 3s7-1.3 7-3v-3.8l-7 3.5z"/></svg>Ph.D. courses
 
 <div class="entry-list">
 
@@ -23,7 +23,7 @@ author_profile: true
 
 </div>
 
-## Institutional teaching as course coordinator
+## <svg class="heading__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 2h2v1h11.5l-2.2 4.5L18.5 12H7v10H5zm2 3v5h8.3l-1.2-2.5L15.3 5z"/></svg>Institutional teaching as course coordinator
 
 <div class="entry-list">
 
@@ -55,7 +55,7 @@ author_profile: true
 
 </div>
 
-## Institutional teaching as lecturer
+## <svg class="heading__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 3h20v2h-1v10H3V5H2zm3 2v8h14V5zm2 2h6v1.6H7zm0 3h9v1.6H7zM11 16h2v2.2l3.4 3-1.3 1.3L12 19.7l-3.1 2.8-1.3-1.3 3.4-3z"/></svg>Institutional teaching as lecturer
 
 <div class="entry-list">
 
@@ -151,7 +151,7 @@ author_profile: true
 
 </div>
 
-## Contract professor
+## <svg class="heading__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 2h9.5L19 6.5V22H5zm2 2v16h10V7.3L13.7 4zm2 5h6v1.6H9zm0 3.2h6v1.6H9zm0 3.2h4v1.6H9z"/></svg>Contract professor
 
 <div class="entry-list">
 
@@ -196,7 +196,7 @@ author_profile: true
 
 </div>
 
-## Teaching assistant
+## <svg class="heading__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 4a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm7.5 1.5a2.8 2.8 0 1 1 0 5.6 2.8 2.8 0 0 1 0-5.6zM9 12.5c3.6 0 6.5 1.9 6.5 4.2V20h-13v-3.3c0-2.3 2.9-4.2 6.5-4.2zm7.5.5c2.8 0 5 1.5 5 3.4V20h-4.5v-3.3c0-1.4-.6-2.7-1.6-3.6z"/></svg>Teaching assistant
 
 <div class="entry-list">
 
@@ -238,7 +238,7 @@ author_profile: true
 
 </div>
 
-## Voluntary teaching assistance
+## <svg class="heading__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21l-1.5-1.3C5.4 15.1 2 12 2 8.3 2 5.3 4.3 3 7.3 3c1.7 0 3.4.8 4.7 2.1C13.3 3.8 15 3 16.7 3 19.7 3 22 5.3 22 8.3c0 3.7-3.4 6.8-8.5 11.4z"/></svg>Voluntary teaching assistance
 
 <div class="entry-list">
 
@@ -283,14 +283,13 @@ author_profile: true
 
 </div>
 
-## Design of new course modules
+## <svg class="heading__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5.5a5.2 5.2 0 0 1 3 9.5v2H9v-2a5.2 5.2 0 0 1 3-9.5zm-2.5 12.5h5v1.6a1.2 1.2 0 0 1-1.2 1.2h-2.6a1.2 1.2 0 0 1-1.2-1.2z"/><path d="M11.2.8h1.6v3h-1.6zM1.2 9.9h3v1.6h-3zm18.6 0h3v1.6h-3zM4 3.3l1.1-1.1 2.1 2.1-1.1 1.1zm16 0-1.1-1.1-2.1 2.1 1.1 1.1z"/></svg>Design of new course modules
 
 <div class="entry-list">
 
 <div class="entry">
   <div class="entry__years">2023 - 2024</div>
   <div>
-    <span class="entry__role entry__role--main">New module</span>
     <div class="entry__name">Supervisory control module for "Formal Methods for Cyber-Physical Systems"</div>
     <div class="entry__meta">
       <span>Master's degree in Cybersecurity, Department of Mathematics, University of Padova, Italy</span>
@@ -302,29 +301,10 @@ author_profile: true
 <div class="entry">
   <div class="entry__years">2019 - 2021</div>
   <div>
-    <span class="entry__role entry__role--main">New module</span>
     <div class="entry__name">Discrete event systems module for "Systems Design Laboratory"</div>
     <div class="entry__meta">
       <span>Master's degree in Computer Engineering for Robotics and Smart Industry, Department of Computer Science, University of Verona, Italy</span>
       <span><b>Coordinator:</b> Prof. Tiziano Villa</span>
-    </div>
-  </div>
-</div>
-
-</div>
-
-## Other
-
-<div class="entry-list">
-
-<div class="entry">
-  <div class="entry__years">2021 - 2022</div>
-  <div>
-    <span class="entry__role">Participant</span>
-    <div class="entry__name">Turing Arena Light (TALight) open source project</div>
-    <div class="entry__meta">
-      <span><a href="https://github.com/romeorizzi/TALight">github.com/romeorizzi/TALight</a></span>
-      <span><b>Scientific lead:</b> Prof. Romeo Rizzi</span>
     </div>
   </div>
 </div>

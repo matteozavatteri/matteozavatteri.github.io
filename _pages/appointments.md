@@ -10,11 +10,14 @@ author_profile: true
 <div class="entry-list entry-list--wide-dates">
 
 <div class="entry">
-  <div class="entry__years">Mar 2026 - ongoing</div>
+  <div class="entry__years">Since Mar 2026</div>
   <div>
     <span class="entry__role entry__role--main">Researcher</span>
     <div class="entry__name">Fondazione Bruno Kessler (FBK), Trento, Italy</div>
-    <div class="entry__alt">Planning, Scheduling, and Optimization unit, Digital Industry Center</div>
+    <div class="entry__alt">Planning, Scheduling, and Optimization unit</div>
+    <div class="entry__meta">
+      <span>Digital Industry Center</span>
+    </div>
     <p>Research on hybrid controllability of temporal networks.</p>
   </div>
 </div>

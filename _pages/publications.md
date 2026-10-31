@@ -152,7 +152,7 @@ author_profile: true
   <div>
     <div class="entry__name">Refusal Before Decoding: Detecting and Exploiting Refusal Signals in Intermediate LLM Activations</div>
     <div class="entry__meta"><span>Matteo Gioele Collu, Riccardo Conte, Alberto Giaretta, Denis Kleyko, Mauro Conti, <strong>Matteo Zavatteri</strong>, and Roberto Confalonieri</span></div>
-    <div class="entry__alt">In Findings of the Association for Computational Linguistics: EMNLP 2026, pages 28141–28157. Association for Computational Linguistics. 2026. <a class="chip" href="https://aclanthology.org/2026.findings-emnlp.1328/">Link</a></div>
+    <div class="entry__alt">In Findings of the Association for Computational Linguistics: EMNLP 2026, pages 28141–28157. Association for Computational Linguistics. 2026. <a class="chip" href="https://doi.org/10.18653/2026.findings-emnlp.1328">DOI</a></div>
   </div>
 </div>
 
